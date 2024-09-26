@@ -1,0 +1,19 @@
+on: push
+name: Publish Website
+jobs:
+  FTP-Deploy-Action:
+    name: FTP-Deploy-Action
+    runs-on: ubuntu-latest
+    steps:
+    - uses: Dylan700/sftp-upload-action@v1.2.3
+      with:
+        server: ${{SERVER}}
+        username: ${{USER}}
+        password: ${{PWD}}
+        port: 22
+        uploads: |
+          ./ => ./
+        ignore: |
+          *.git
+          */**/*git*
+        delete: 'true'
