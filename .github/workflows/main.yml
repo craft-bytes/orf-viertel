@@ -1,19 +1,20 @@
-on: push
-name: Publish Website
+on:
+  push:
+    branches:
+      - main
+name: Deploy website on push
 jobs:
-  FTP-Deploy-Action:
-    name: FTP-Deploy-Action
+  web-deploy:
+    name: Deploy
     runs-on: ubuntu-latest
     steps:
-    - uses: Dylan700/sftp-upload-action@v1.2.3
+    - name: Get latest code
+      uses: actions/checkout@v3
+
+    - name: Push files
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
         server: ${{SERVER}}
         username: ${{USER}}
         password: ${{PWD}}
-        port: 22
-        uploads: |
-          ./ => ./
-        ignore: |
-          *.git
-          */**/*git*
-        delete: 'true'
+        protocol: ftps
