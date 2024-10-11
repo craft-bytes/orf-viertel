@@ -18,9 +18,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $vorname = $conn->real_escape_string($_POST['vorname']);
     $nachname = $conn->real_escape_string($_POST['nachname']);
     $email = $conn->real_escape_string($_POST['email']);
+    $strasse = $conn->real_escape_string($_POST['strasse']);
 
     // SQL-Abfrage vorbereiten
-    $sql = "INSERT INTO unterstuetzer (vorname, nachname, email) VALUES ('$vorname', '$nachname', '$email')";
+    $sql = "INSERT INTO unterstuetzer (vorname, nachname, email, strasse) VALUES ('$vorname', '$nachname', '$email', '$strasse')";
 
     // Abfrage ausführen und Ergebnis prüfen
     if ($conn->query($sql) === TRUE) {
