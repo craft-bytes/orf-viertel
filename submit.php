@@ -5,8 +5,6 @@ $username = "d041a2f5";      // dein MySQL-Benutzername
 $password = "Pfga3rNPvxN5ogwgfbFy";      // dein MySQL-Passwort
 $dbname = "d041a2f5";        // der Name deiner Datenbank
 
-
-
 // Verbindung zur Datenbank erstellen
 $conn = new mysqli($servername, $username, $password, $dbname);
 
@@ -26,12 +24,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     // Abfrage ausführen und Ergebnis prüfen
     if ($conn->query($sql) === TRUE) {
-        echo "Vielen Dank für Ihre Unterstützung!";
+        echo "Vielen Dank fuer Ihre Unterstuetzung!";
     } else {
         echo "Fehler: " . $sql . "<br>" . $conn->error;
     }
 }
-
 // Verbindung schließen
 $conn->close();
 ?>
