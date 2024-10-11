@@ -5,18 +5,15 @@ $username = "d041a2f5";      // dein MySQL-Benutzername
 $password = "Pfga3rNPvxN5ogwgfbFy";      // dein MySQL-Passwort
 $dbname = "d041a2f5";        // der Name deiner Datenbank
 
-echo "Verbindungsaufbau..."
 
 
 // Verbindung zur Datenbank erstellen
-$con1 = new mysqli($servername, $username, $password, $dbname);
+$conn = new mysqli($servername, $username, $password, $dbname);
 
-echo "Überprüfe Verbindung..."
 // Verbindung überprüfen
 if ($conn->connect_error) {
     die("Verbindung fehlgeschlagen: " . $conn->connect_error);
 }
-echo "Verbindung zur DB hergestellt."
 
 // Daten aus dem Formular verarbeiten
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
