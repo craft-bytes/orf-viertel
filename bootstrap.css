@@ -4219,7 +4219,6 @@ tbody.collapse.show {
   margin-bottom: 0;
   background-color: rgba(0, 0, 0, 0.03);
   border-bottom: 1px solid rgba(0, 0, 0, 0.125);
-  min-height: 12.5rem;
   vertical-align: middle;
 }
 .card-header:first-child {
