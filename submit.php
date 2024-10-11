@@ -9,7 +9,7 @@ echo "Verbindungsaufbau..."
 
 
 // Verbindung zur Datenbank erstellen
-$conn = new mysqli($servername, $username, $password, $dbname);
+$con1 = new mysqli($servername, $username, $password, $dbname);
 
 echo "Überprüfe Verbindung..."
 // Verbindung überprüfen
