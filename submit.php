@@ -13,6 +13,7 @@ echo "Trage ein..."
 if ($conn->connect_error) {
     die("Verbindung fehlgeschlagen: " . $conn->connect_error);
 }
+echo "Verbindung zur DB hergestellt."
 
 // Daten aus dem Formular verarbeiten
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
