@@ -8,6 +8,7 @@ $dbname = "d041a2f5";        // der Name deiner Datenbank
 // Verbindung zur Datenbank erstellen
 $conn = new mysqli($servername, $username, $password, $dbname);
 
+echo "Trage ein..."
 // Verbindung überprüfen
 if ($conn->connect_error) {
     die("Verbindung fehlgeschlagen: " . $conn->connect_error);
