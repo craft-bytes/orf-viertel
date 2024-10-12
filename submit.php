@@ -42,9 +42,7 @@
 
                     include 'vars.php';
                     // Datenbankverbindung herstellen
-                    echo "Hello ";
-                    echo $servername;
-
+ 
                     // Verbindung zur Datenbank erstellen
                     $conn = new mysqli($servername, $username, $password, $dbname);
 
@@ -66,7 +64,7 @@
                         // Abfrage ausführen und Ergebnis prüfen
                         if ($conn->query($sql) === TRUE) {
 
-                            echo "Ihr Name wurde erfolgreich der Liste hinzugefügt. Zurück zur <a href="/">Startseite</a>";
+                            echo "Ihr Name wurde erfolgreich der Liste hinzugefügt. Zurück zur <a href=\"/\">Startseite</a>";
                         } else {
                             echo "Fehler: " . $sql . "<br>" . $conn->error;
                         }
