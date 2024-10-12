@@ -39,11 +39,11 @@
             <div class="row">
                 <div class="col-12 mb-3 text-center">
                     <?php
+
+                    include 'vars.php';
                     // Datenbankverbindung herstellen
-                    $servername = "localhost";  // oder die Adresse deines Datenbankservers
-                    $username = "d041a2f5";      // dein MySQL-Benutzername
-                    $password = getenv("DB_PASSWORD");      // dein MySQL-Passwort
-                    $dbname = "d041a2f5";        // der Name deiner Datenbank
+                    echo "Hello ";
+                    echo $servername;
 
                     // Verbindung zur Datenbank erstellen
                     $conn = new mysqli($servername, $username, $password, $dbname);
