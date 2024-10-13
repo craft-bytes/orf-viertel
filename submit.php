@@ -89,7 +89,7 @@
 
                         // Sender und Empfaenger
                         $mail->setFrom('email_check@orf-viertel.at','Superblock ORF Viertel');
-                        $mail->addReplyTo('superblock@orf-viertel.at', 'Superblock ORF Viertel')
+                        $mail->addReplyTo('superblock@orf-viertel.at', 'Superblock ORF Viertel');
                         $mail->addAddress($email);
 
                         // Inhalt
