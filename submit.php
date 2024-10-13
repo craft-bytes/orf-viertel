@@ -71,6 +71,38 @@
                     }
                     // Verbindung schließen
                     $conn->close();
+                    
+                    // Schicken der Verifikationsemail
+                    
+                    $mail = new PHPMailer(exception: true);
+                    
+                    try {
+                        $mail ->SMTPDebug = SMTP::DEBUG_OFF; // Set to DEBUG_SERVER for debugging
+                        $mail ->isSMTP();
+                        $mail ->Host = $mail_smtp_server; // Mailtrap SMTP server host 
+                        $mail ->SMTPAuth = true;
+                        $mail ->Username = $mail_user; 
+                        $mail ->Password = $mail_pwd; // Your Mailtrap SMTP password
+                        $mail ->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS; // Enable TLS encryption
+                        $email ->Port = 465; // TCP port to connect to
+
+
+                        // Sender und Empfaenger
+                        $mail->setFrom('email_check@orf-viertel.at','Superblock ORF Viertel');
+                        $mail->addReplyTo('superblock@orf-viertel.at', 'Superblock ORF Viertel')
+                        $mail->addAddress($email);
+
+                        // Inhalt
+                        $mail->isHTML(false);
+                        $mail->Subject = 'Superblock ORF Viertel - Email Bestaetigung';
+                        $mail->Body    = "Your verification code is: $verificationCode";
+
+                        $mail->send();
+                    
+                    } catch (Exception $e) {
+                        echo "Mailer Error: ".$e->getMessage();
+                    }
+
                     ?>
                 </div>
             </div>
