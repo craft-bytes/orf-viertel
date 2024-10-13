@@ -74,6 +74,10 @@
                     
                     // Schicken der Verifikationsemail
                     
+                    use PHPMailer\PHPMailer\PHPMailer;
+                    use PHPMailer\PHPMailer\SMTP
+                    use PHPMailer\PHPMailer\Exception;
+
                     $mail = new PHPMailer(exception: true);
                     
                     try {
