@@ -73,7 +73,8 @@
                     $conn->close();
                     
                     // Schicken der Verifikationsemail
-                    
+                    require_once "vendor/autoload.php";
+
                     use PHPMailer\PHPMailer\PHPMailer;
                     use PHPMailer\PHPMailer\SMTP;
                     use PHPMailer\PHPMailer\Exception;
