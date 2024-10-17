@@ -18,12 +18,13 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #2E4F61;
+  /* --primary: #2E4F61; */
+  --primary: #2F2E67;
   --secondary: #6c757d;
   --success: #28a745;
-  --info: #2E4F61;
-  --info-background: #CDDEE7;
-  --info-border: #2E4F61;
+  --info: #111111;
+  --info-background: rgb(185, 208, 235);
+  --info-border: #2F2E67;
   --warning: #ffc107;
   --danger: #dc3545;
   --light: #f8f9fa;
@@ -242,7 +243,6 @@ select,
 textarea {
   margin: 0;
   font-family: inherit;
-  font-size: inherit;
   line-height: inherit;
 }
 button,
@@ -4176,7 +4176,6 @@ tbody.collapse.show {
   background-color: var(--info-background);
   background-clip: border-box;
   border: 1px solid var(--info-border);
-  box-shadow: 4px 4px 4px 2px var(--info-background);
   border-radius: 0.25rem;
   height: 100%
 }
