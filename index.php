@@ -56,8 +56,8 @@
                     </div>
 
                     <div class="col-12 p-3 mt-4">
-                        <h3>Jetzt informieren und dann <?php echo "wie $count andere" ?> im Beteiligungsprozess der
-                            Stadt Graz einen "Superblock ORF Viertel" fordern!</h3>
+                        <h3>Jetzt informieren und dann im Beteiligungsprozess der Stadt Graz einen "Superblock ORF
+                            Viertel" fordern!</h3>
                     </div>
 
                     <div class="col-12 p-3">
@@ -411,9 +411,9 @@
 
 
                     <p class="mb-5">
-                        Tragen Sie sich in unsere Liste von UnterstützerInnen ein. Wir nutzen den Eintrag, um Sie zu
-                        informieren, sobald der Beteiligungsprozess startet. Gleichzeitig schafft Ihr Eintrag eine
-                        Vernetzung von UnterstützerInnen im Viertel.</p>
+                        Tragen Sie sich <?php echo "wie $count andere" ?> in unsere Liste von UnterstützerInnen ein. Wir
+                        nutzen den Eintrag, um Sie zu informieren, sobald der Beteiligungsprozess startet. Gleichzeitig
+                        schafft Ihr Eintrag eine Vernetzung von UnterstützerInnen im Viertel.</p>
 
                     <form accept-charset="utf-8" action="submit.php" method="POST">
                         <div class="row">
