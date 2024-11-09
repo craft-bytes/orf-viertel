@@ -11,6 +11,34 @@
 <body>
 <main data-offset="0" data-spy="scroll" data-target="#mainNav" role="main">
 
+    <?php
+
+    include 'vars.php';
+    // Datenbankverbindung herstellen
+
+    // Verbindung zur Datenbank erstellen
+    $conn = new mysqli($servername, $username, $password, $dbname);
+
+    // Verbindung überprüfen
+    if ($conn->connect_error) {
+        die("Verbindung fehlgeschlagen: " . $conn->connect_error);
+    }
+
+    // SQL-Abfrage vorbereiten
+    $sql = "SELECT COUNT(1) FROM unterstuetzer";
+
+    // Abfrage ausführen und Ergebnis prüfen
+    if ($result = mysqli_query($conn, $sql)) {
+        $row = mysqli_fetch_array($result);
+        $count = $row[0];
+    } else {
+        echo "Fehler: " . $sql . "<br>" . $conn->error;
+    }
+    // Verbindung schließen
+    $conn->close();
+
+    ?>
+
 
     <!--- Transparent -------------------------------------------------------------------------------------->
     <section class="intro" id="intro">
@@ -28,18 +56,17 @@
                     </div>
 
                     <div class="col-12 p-3 mt-4">
-                        <h3>Jetzt informieren
-                        und dann im Beteiligungsprozess der Stadt Graz
-                        einen "Superblock ORF Viertel" fordern!</h3>
+                        <h3>Jetzt informieren und dann <?php echo "wie $count andere" ?> im Beteiligungsprozess der
+                            Stadt Graz einen "Superblock ORF Viertel" fordern!</h3>
                     </div>
 
                     <div class="col-12 p-3">
-                        <p>Ein Superblock ist eine großflächig verkehrsberuhigte Zone. Der Autoverkehr wird 
-                            dabei auf den Verkehr durch die unmittelbaren AnrainerInnen beschränkt. Das 
-                            schafft eine hohe Wohnqualität für ALLE im Viertel und keine Verkehrsverlagerung 
-                            von einer Straße in die Nächste.</p>
+                        <p>Ein Superblock ist eine großflächig verkehrsberuhigte Zone. Der Autoverkehr wird dabei auf
+                            den Verkehr durch die unmittelbaren AnrainerInnen beschränkt. Das schafft eine hohe
+                            Wohnqualität für ALLE im Viertel und keine Verkehrsverlagerung von einer Straße in die
+                            Nächste.</p>
                     </div>
-                    
+
 
                     <div class="col-12 p-3 mt-4">
                         <a class="btn btn-primary btn-lg pl-5 pr-5" href="#form">Jetzt unterstützen!</a>
@@ -66,11 +93,12 @@
                     <p>
                         Mit der Errichtung der Fahrradstraße Marburger Straße hat sich der Durchzugsverkehr der
                         Marburger Straße auf die anderen Straßen des Viertels verlagert (siehe <a
-                            href="https://umap.openstreetmap.de/en/map/burgerinitiative-superblock-orf-viertel_63644"
-                            target="_blank">interaktive Karte</a>). Für 2025 ist die Errichtung einer Fahrradstraße
+                                href="https://umap.openstreetmap.de/en/map/burgerinitiative-superblock-orf-viertel_63644"
+                                target="_blank">interaktive Karte</a>). Für 2025 ist die Errichtung einer Fahrradstraße
                         Neufeldweg vorgesehen, die potentiell zu weiteren signifikanten Verlagerungen führt. In dem
                         Zusammenhang wird laut <a href="https://www.graz.at/cms/beitrag/10424814/7759964/">offizieller
-                        Aussendung</a> der Stadt Graz in naher Zukunft ein Bürgerbeteiligungsprozess durchgeführt. </p>
+                            Aussendung</a> der Stadt Graz in naher Zukunft ein Bürgerbeteiligungsprozess durchgeführt.
+                    </p>
                     <p class="alert alert-info text-center font-weight-bold p-4 mb-4">
 
                         Der kommende Bürgerbeteiligungsprozess stellt die Weichen für die weitere Verkehrsplanung im ORF
@@ -83,9 +111,9 @@
                         Verkehrsberuhigungen für Wohngebiete werden in vielen Städten bereits gemacht und sind bekannt
                         unter dem Namen "Superblocks". Für unser Viertel ist eine solche großflächige Verkehrsberuhigung
                         aktuell aber erst im <a
-                            href="https://www.graz.at/cms/beitrag/10403377/12799279/Die_Inhalte_des_Mobilitaetsplan_Graz.html"
-                            target="_blank">Mobilitätsplan 2040</a> geplant. Die Probleme mit dem Durchzugsverkehr haben
-                        wir aber bereits jetzt. </p>
+                                href="https://www.graz.at/cms/beitrag/10403377/12799279/Die_Inhalte_des_Mobilitaetsplan_Graz.html"
+                                target="_blank">Mobilitätsplan 2040</a> geplant. Die Probleme mit dem Durchzugsverkehr
+                        haben wir aber bereits jetzt. </p>
 
                     <p class="alert alert-info text-center font-weight-bold p-4 mt-4 mb-4">
                         Wir fordern die sofortige Umsetzung einer flächendeckenden Verkehrsberuhigung für das ORF
@@ -106,10 +134,11 @@
 
                     <p>
                         Wir haben eine <a
-                            href="https://umap.openstreetmap.de/en/map/burgerinitiative-superblock-orf-viertel_63644"
-                            target="_blank">Karte</a> erstellt, die die aktuelle Verkehrssituation im ORF Viertel zeigt.
-                        Die Karte beinhaltet aktuelle Verkehrszählungsdaten und beschreibt die Notwendigkeit einer
-                        großflächigen Verkehrsberuhigung aus der Perspektive der einzelnen Straßen des Viertels. </p>
+                                href="https://umap.openstreetmap.de/en/map/burgerinitiative-superblock-orf-viertel_63644"
+                                target="_blank">Karte</a> erstellt, die die aktuelle Verkehrssituation im ORF Viertel
+                        zeigt. Die Karte beinhaltet aktuelle Verkehrszählungsdaten und beschreibt die Notwendigkeit
+                        einer großflächigen Verkehrsberuhigung aus der Perspektive der einzelnen Straßen des Viertels.
+                    </p>
 
                 </div>
 
@@ -142,8 +171,8 @@
                                 Einzelmaßnahmen im Viertel wie die Errichtung der Fahrradstraße Marburger Straße oder
                                 der geplanten Fahrradstraße Neufeldweg schaffen zwar eine lokale Verbesserung für
                                 AnrainerInnen und den Radverkehr. <strong>Leider gehen diese aber auf Kosten der
-                                Wohnqualität der anderen Straßen im Viertel.</strong> Seit Errichtung der Fahrradstraße
-                                Marburger Straße sehen wir in den umliegenden Wohnstraßen mehr Verkehr:
+                                    Wohnqualität der anderen Straßen im Viertel.</strong> Seit Errichtung der
+                                Fahrradstraße Marburger Straße sehen wir in den umliegenden Wohnstraßen mehr Verkehr:
                                 <p class="mt-4">
                                     Händelstraße: +61%<br/> Scheigergasse: + 137%<br/> Neufeldweg: +36%<br/>
                                 </p>
@@ -167,8 +196,8 @@
                                 <strong>Die Viertel rund um das ORF Viertel können nicht mit dem Auto durchquert
                                     werden.</strong> Es gibt außer dem ORF Viertel - vom Dietrichsteinplatz bis zum
                                 Liebenauer- bzw. St.Peter-Gürtel (!) - <strong>kein einziges anderes Viertel</strong>,
-                                wo man mit dem Auto auf niederrangigen Wohnstraßen parallel zu den Hauptverkehrsadern wie
-                                der St. Peter-Hauptstraße, der Petersgasse, der Münzgrabenstraße und der Liebenauer
+                                wo man mit dem Auto auf niederrangigen Wohnstraßen parallel zu den Hauptverkehrsadern
+                                wie der St. Peter-Hauptstraße, der Petersgasse, der Münzgrabenstraße und der Liebenauer
                                 Hauptstraße schleichen kann.
                             </div>
                         </div>
@@ -189,8 +218,8 @@
                                 Mit der Errichtung der Fahrradstraße Marburger Straße wurde eine Maßnahme zur
                                 Verkehrsberuhigung und zur Attraktivierung für den Radverkehr im Viertel gesetzt. Manche
                                 fordern nun eine Öffnung der Marburger Straße. <strong>Dies wäre ein Schritt zurück in
-                                die Vergangenheit und ein Schritt in die Richtung der Förderung von Durchzugsverkehr
-                                durch unser Viertel.</strong> Der Durchzugsverkehr wird immer mehr werden. Die
+                                    die Vergangenheit und ein Schritt in die Richtung der Förderung von Durchzugsverkehr
+                                    durch unser Viertel.</strong> Der Durchzugsverkehr wird immer mehr werden. Die
                                 Bebauungsdichten werden höher und es entstehen mehrere Großprojekte unmittelbar neben
                                 unserem Viertel, die noch mehr Verkehr anziehen werden: Der Ausbau des TU Campus
                                 Inffeldgasse, der Ausbau des Liebenauer Stadions, das Projekt "Graz Mitte", ...
@@ -216,7 +245,7 @@
                                 Verkehrsmessungen nicht wirksam. Auch Fahrradstraßen ohne Durchfahrtssperren für den
                                 Autoverkehr wären keine wirksame Maßnahme. Das würde keine Verbesserung für den
                                 Radverkehr oder die AnrainerInnen bringen. <strong>Es wären "Alibi-Fahrradstraßen" mit
-                                vielen Schildern, aber ohne Effekt.</strong>
+                                    vielen Schildern, aber ohne Effekt.</strong>
                             </div>
                         </div>
 
@@ -258,7 +287,7 @@
                     </p>
                     <ul>
                         <li><a href="https://de.wikipedia.org/wiki/Superblock_(Stadtplanung)">Beschreibung von
-                            Superblocks auf Wikipedia</a>
+                                Superblocks auf Wikipedia</a>
                         </li>
                         <li>
                             <a href="https://www.graz.at/cms/beitrag/10403377/12799279/Die_Inhalte_des_Mobilitaetsplan_Graz.html">Ziele
@@ -303,7 +332,7 @@
                         Wir sind aus diesem Grund auch gegen eine Wiederöffnung der Marburger Straße für den
                         Autoverkehr, wie von einigen gefordert wird. Eine Wiedereröffnung hätte massive Nachteile für
                         die dort ansässigen Bewohner. <strong>Wir wollen jedoch eine gute Lösung für ALLE
-                        AnrainerInnen.</strong> Wir sind davon überzeugt, dass nicht nur der Durchzugsverkehr in der
+                            AnrainerInnen.</strong> Wir sind davon überzeugt, dass nicht nur der Durchzugsverkehr in der
                         Marburger Straße zurückkommen würde. Die neuen Ausweichrouten durch unser Viertel haben sich
                         mittlerweile leider etabliert. Bei einer Wiederöffnung der Marburger Straße würde die
                         Verkehrsbelastung in anderen Straßen in unserem Viertel trotzdem spürbar hoch bleiben. </p>
@@ -334,10 +363,10 @@
                         sieht zwei Fahrradstraßen im ORF Viertel vor:</p>
                     <ul>
                         <li> Marburger Straße – bereits umgesetzt (<a
-                                href="https://rad.graz.at/masterplan/">Masterplan</a> S. 174, Abschnitt 6)
+                                    href="https://rad.graz.at/masterplan/">Masterplan</a> S. 174, Abschnitt 6)
                         </li>
                         <li>Neufeldweg – Umsetzung 2025 geplant (<a
-                                href="https://rad.graz.at/masterplan/">Masterplan</a> S. 182, Abschnitt 3)
+                                    href="https://rad.graz.at/masterplan/">Masterplan</a> S. 182, Abschnitt 3)
                         </li>
                     </ul>
 
@@ -424,7 +453,7 @@
                                                          width="200"></a>
 
                         <br/><br/> Für ein größeres Transparent melden Sie sich unter <a
-                            href="mailto:superblock@orf-viertel.at">superblock@orf-viertel.at</a>.
+                                href="mailto:superblock@orf-viertel.at">superblock@orf-viertel.at</a>.
 
                     </p>
 
@@ -438,9 +467,9 @@
                         Lösung für das aktuelle Verkehrsproblem unseres Viertels zu finden. </p>
                     <p>
                         Diese Initiative ist aus der Unterschriften Petition <a
-                            href="https://mein.aufstehn.at/petitions/fahrradstrasse-marburger-strasse-ja-schleich-und-durchzugsverkehr-im-wohngebiet-nein-1">"Fahrradstraße
-                        Marburger Straße: JA, Schleich- und Durchzugsverkehr im Wohngebiet: NEIN!"</a> entstanden, die
-                        bereits von 800 Personen unterzeichnet wurde. Danke für Ihre großartige Unterstützung! Wir
+                                href="https://mein.aufstehn.at/petitions/fahrradstrasse-marburger-strasse-ja-schleich-und-durchzugsverkehr-im-wohngebiet-nein-1">"Fahrradstraße
+                            Marburger Straße: JA, Schleich- und Durchzugsverkehr im Wohngebiet: NEIN!"</a> entstanden,
+                        die bereits von 800 Personen unterzeichnet wurde. Danke für Ihre großartige Unterstützung! Wir
                         werden weitermachen, bis eine akzeptable Lösung des Durchzugsverkehrs für alle gefunden und
                         umgesetzt ist. </p>
 
@@ -448,7 +477,7 @@
 
                     <p>
                         Sie wollen mitmachen? Wir freuen uns über jede helfende Hand! Melden sie sich einfach via <a
-                            href="mailto:superblock@orf-viertel.at">superblock@orf-viertel.at</a>. </p>
+                                href="mailto:superblock@orf-viertel.at">superblock@orf-viertel.at</a>. </p>
 
 
                 </div>
