@@ -90,7 +90,8 @@
                     
                     <tr>                           
                         <td>02.12.2024</td>
-                        <td>Aktualisierung der Webseite mit einer Konkretiererung der  </td>
+                        <td>Aktualisierung der Webseite mit einer Konkretiererung der Beschreibung der Verkehrssituation 
+                            und von Lösungsmöglichkeiten im Rahmen eines Superblocks ORF Viertel. </td>
                     </tr>
                     
                     <tr>                           
