@@ -106,7 +106,7 @@
 
                     <tr>                           
                         <td>03.11.2024</td>
-                        <td>Die Initiative startet - Aufhängen des ersten Transparents im Viertel</td>
+                        <td>Die Initiative startet - Aufhängen der ersten Transparente im Viertel</td>
                     </tr>
                     <!--    <tr>                           
                             <td>26.11.2024</td>
