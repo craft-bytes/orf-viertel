@@ -79,7 +79,7 @@
     </section>
 
     <!--- Neuigkeiten  --------------------------------------------------------------->
-    <!--
+    
     <section id="News">
         <div class="container">
             <div class="row">
@@ -87,7 +87,27 @@
                     <h1>Neuigkeiten</h1>
                     
                     <table align="center"  border="0" cellpadding="5">
-                        <tr>                           
+                    
+                    <tr>                           
+                        <td>02.12.2024</td>
+                        <td>Aktualisierung der Webseite mit einer Konkretiererung der  </td>
+                    </tr>
+                    
+                    <tr>                           
+                        <td>November 2024</td>
+                        <td>Es finden von Seiter der Bürgerinitiative viele Gespräche mit 
+                            AnrainerInnen statt und mit VertreterInnen der Stadt. Konkret:
+                            Vizebürgermeisterin Schwentner, Bezirksrat St. Peter und Bezirksrat Jakomini. 
+                            Wir erhalten die Information, dass der Beteiligungsprozess sich verzögert, aber dass er
+                            im ersten Halbjahr 2025 stattinden soll. 
+                        </td>
+                    </tr>
+
+                    <tr>                           
+                        <td>03.11.2024</td>
+                        <td>Die Initiative startet - Aufhängen des ersten Transparents im Viertel</td>
+                    </tr>
+                    <!--    <tr>                           
                             <td>26.11.2024</td>
                             <td>Vorstellung der Bürgerinitiative beim neuen Bezirksvorsteher von St.Peter Mario Rossmann</td>
                           </tr>
@@ -110,7 +130,7 @@
                          <tr>                           
                             <td>03.11.2024</td>
                             <td>Aufhängen des ersten Transparents im Viertel</td>
-                          </tr>
+                          </tr> -->
                       </table>
 
                 </div>
@@ -118,7 +138,7 @@
         </div>
     </section>
 
-    -->
+
 
     <!--- Hintergrund Info / Problembeschreibung --------------------------------------------------------------->
 
