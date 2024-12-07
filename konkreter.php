@@ -12,7 +12,7 @@
 <main data-offset="0" data-spy="scroll" data-target="#mainNav" role="main">
 
 
-    <?php
+   <?php
 
     include 'vars.php';
     // Datenbankverbindung herstellen
@@ -39,7 +39,6 @@
     $conn->close();
 
     ?>
-
 
     <!--- Transparent -------------------------------------------------------------------------------------->
     <section class="intro" id="intro">
@@ -86,54 +85,21 @@
                 <div class="col-12 mb-3">
                     <h1>Neuigkeiten</h1>
                     
-                    <table align="center"  border="0" cellpadding="5">
-                    
-                    <tr>                           
-                        <td>02.12.2024</td>
-                        <td>Aktualisierung der Webseite mit einer Konkretiererung der Beschreibung der Verkehrssituation 
-                            und von Lösungsmöglichkeiten im Rahmen eines Superblocks ORF Viertel. </td>
-                    </tr>
-                    
-                    <tr>                           
-                        <td>November 2024</td>
-                        <td>Es finden von Seiter der Bürgerinitiative viele Gespräche mit 
-                            AnrainerInnen statt und mit VertreterInnen der Stadt. Konkret:
-                            Vizebürgermeisterin Schwentner, Bezirksrat St. Peter und Bezirksrat Jakomini. 
-                            Wir erhalten die Information, dass der Beteiligungsprozess sich verzögert, aber dass er
-                            im ersten Halbjahr 2025 stattinden soll. 
-                        </td>
-                    </tr>
 
-                    <tr>                           
-                        <td>03.11.2024</td>
-                        <td>Die Initiative startet - Aufhängen der ersten Transparente im Viertel</td>
-                    </tr>
-                    <!--    <tr>                           
-                            <td>26.11.2024</td>
-                            <td>Vorstellung der Bürgerinitiative beim neuen Bezirksvorsteher von St.Peter Mario Rossmann</td>
-                          </tr>
-                        <tr>
-                          <td>24.11.2024</td>
-                          <td>Erweiterung der Webseite um ein Verkehrskonzept für den Superblock ORF Viertel</td>                          
-                         </tr>
-                         <tr>                           
-                            <td>23.11.2024</td>
-                            <td>Mehr als 20 große Transparente hängen im ORF Viertel - Vielen Dank für die Unterstützung</td>
-                          </tr>
-                         <tr>                           
-                           <td>19.11.2024</td>
-                           <td>Teilnahme der Bürgerinitiative an der Anrainerveranstalung der TU Graz zum neuen Campus Inffeldgasse</td>
-                         </tr>
-                         <tr>                           
-                            <td>19.11.2024</td>
-                            <td>Vorstellung der Bürgerinitiative bei Vizebürgermeisterin Judith Schwentner</td>
-                          </tr>
-                         <tr>                           
-                            <td>03.11.2024</td>
-                            <td>Aufhängen des ersten Transparents im Viertel</td>
-                          </tr> -->
-                      </table>
-
+                    <p><strong>Dezember 2024:</strong></p>
+                    <p>
+                    Aktualisierung der Webseite mit einer Konkretiererung der Beschreibung der Verkehrssituation 
+                    und von Lösungsmöglichkeiten im Rahmen eines Superblocks ORF Viertel. Wir sind weiter 
+                    in Kontakt mit der Stadt Graz. Wir haben leider noch keinen fixen Termin für den Beteiligungsprozess 
+                    erhalten. Es wird aktuell das erste Halbjahr 2025 als Zeitraum genannt. 
+                    </p>
+                    <p><strong>November 2024</strong></h4></p>
+                    <p>              
+                    Die Initiative startet. Es finden von Seite der Bürgerinitiative 
+                            viele Gespräche mit 
+                            AnrainerInnen statt und mit VertreterInnen der Stadt. Dies inkludiert 
+                            Vizebürgermeisterin Schwentner, den Bezirksrat St. Peter und den Bezirksrat Jakomini. 
+                    </p>
                 </div>
             </div>
         </div>
@@ -231,26 +197,26 @@
                         <p> Es gibt grundsätzlich drei Verkehrsprobleme im ORF Viertel:
                         </p>
                         <ol>
-                            <li> <strong>Nord-Süd Durchzugsverkehr: </strong> Das ORF Viertel ist Autobahnzubringer und Autozubringer zum Murpark. </li>
+                            <li> <strong>Nord-Süd Durchzugsverkehr: </strong> Das ORF Viertel ist Zubringer zur Autobahn und zum Murpark. </li>
                             <li> <strong>Ost-West Durchzugsverkehr: </strong>
-                                Das ORF Viertel wird von der Harmsdorfgasse zur St. Peterhauptstr. durchquert und umgekehrt.</li>                            
+                                Das ORF Viertel wird von der Münzgrabenstr. zur St. Peterhauptstr. durchquert und umgekehrt.</li>                            
 
                             <li> <strong>Lokaler Kreuzungs-Ausweichverkehr:</strong>
                                 Ampelkreuzungen werden via Schleichrouten an den Kanten des Viertel umfahren. 
                              </li>
                         </ol>
                         
-                        <p>Es gibt auch überlagerungseffekte dieser drei Verkehrsarten. 
-                            Wir diskutieren im Folgenden die Probleme und Lösungsvarianten im Rahmen eines Superblocks ORF Viertel im Detail.</p>
+                        <p>Es gibt auch Überlagerungseffekte dieser drei Verkehrsarten. 
+                            Wir diskutieren im Folgenden die Probleme und Lösungsansätze im Rahmen eines Superblocks ORF Viertel im Detail.</p>
 
-                        <h4>1. Das ORF Viertel ist Autobahnzubringer und Autozubringer zum Murpark</h4>
+                        <h4>1. Das ORF Viertel ist Zubringer zur Autobahn und zum Murpark</h4>
                                               
                         <p><strong>Das Problem:</strong></p>
                         <p>
                         Um die Nord-Süd Hauptverbindungen (Münzgrabenstraße, St. Peter Hauptstraße) auf dem Weg zur Autobahn oder zum Murpark 
                         zu umgehen, fahren immer mehr PendlerInnen und GrazerInnen durch das ORF Viertel. Der Grund ist einfach: 
-                        Durch das ORF Viertel kommt man ampelfrei vom Murpark zum St. Peter Schulzentrum oder zur Ecke Brucknerstr. / Münzgrabenstraße. Natürlich gilt das
-                        auch in der Gegenrichtung. 
+                        Durch das ORF Viertel kommt man ampelfrei vom Murpark zum St. Peter Schulzentrum oder in die Münzgrabenstraße. 
+                        Natürlich gilt das auch in der Gegenrichtung. 
                         </p>    
 
                         <p><strong>Die Zukunft: </strong></p>
@@ -261,12 +227,11 @@
                                 durch unser Viertel einzufahren.</li>
                             <li><strong>Neubauten rund um das ORF Viertel:</strong> Der <a href="https://www.tugraz.at/tu-graz/services/news-stories/tu-graz-news/einzelansicht/article/masterplan-fuer-den-campus-inffeldgasse-der-tu-graz">TU Campus</a> im Norden des ORF Viertels wird stark ausgebaut und bekommt eine Zufahrt 
                                 via Brucknerstraße. Das erhöht den Druck auf die Nord-Süd Verbindungen durch das Viertel. Auch die Bauprojekte im Westen
-                                des Viertels (
-                                <a href="https://www.ventagroup.com/de/projekte/graz-mitte/">Graz Mitte</a>, 
+                                des Viertels (<a href="https://www.ventagroup.com/de/projekte/graz-mitte/">Graz Mitte</a>, 
                                 <a href="https://www.kleinezeitung.at/steiermark/graz/18940918/die-plaene-fuer-den-ausbau-der-merkur-arena-in-graz-liebenau">Ausbau des Liebenauer Stadions</a>, 
                                 <a href="https://www.haring-immobilien.at/mqg/">Messequartier</a>, 
                                 <a href="https://www.graz.at/cms/beitrag/10413036/8145023/Neues_Einfahrtsgate_fuer_den_Sueden_von.html">Neues "Einfahrtsgate" (Areal Roth Tankstelle)</a>, ...
-                                ) führen zu mehr Verkehr auf den klassischen Nord-Süd Achsen der Stadt und damit 
+                                ) führen in Zukfunt zu mehr Verkehr auf den klassischen Nord-Süd Achsen der Stadt und damit 
                                 auch zu mehr Druck auf die Schleichrouten durch unser Viertel. 
                             </li>
                         </ul>
@@ -276,11 +241,15 @@
                         Das Versetzen von Parkplätzen (Scheigergasse, Händelstraße) hatte praktisch keinen Effekt auf den Verkehr (bestätigt durch Verkehrsmessungen). 
                         Auch ein Einbahnsystem würde nicht wirklich eine Lösung bringen - im Gegenteil: Die Autos hätten dann mit den Einbahnen noch schnellere
                         Schleichwege, weil es keinen Gegenverkehr mehr gibt. Solange es zuminest eine Nord-Süd Verbindung für den Autoverkehr durch das Viertel gibt, 
-                        wird diese genutzt werden und dort sammelt sich der Verkehr.</p>  
+                        wird diese genutzt werden und dort sammelt sich der Verkehr. 
+                        </p>
+                        <p>
+                        Die Marburger Straße zu öffnen zu hoffen, sich der Verkehr im Viertel beruhigt ist nicht realistisch,
+                        weil sich die Umgebung des Viertels mit den kommenden Neubauten stark verändert. Auch das ORF Viertel selbst wird immer dichter bebaut. </p>  
 
                         <p>
                         Die <strong>wirksamste Maßnahme</strong> wäre eine Nord-Süd Trennnug des ORF-Viertels bezüglich des Autoverkehrs.
-                        Man könnte zum Beispiel zwischen der Harmsdorfgasse und der Emil-Ertl-Gasse den 
+                        Man könnte zum Beispiel in den Straßen zwischen der Harmsdorfgasse und der Emil-Ertl-Gasse den 
                         Nord-Süd Durchzugsverkehr unterbinden. 
                         Das würde direkt den Verkehr in der Wittenbauerstraße, der
                         Scheigergasse, im Neufeldweg, und in der Schwarzenberggasse beruhigen. 
@@ -295,9 +264,7 @@
                         durch das Viertel zum Murpark fahren, sondern würde auch über die Münzgrabenstraße zum Murpark fahren. 
                         Das wäre 
                         jedoch kaum ein Umweg. Ebenso würde z.B. eine AnrainerIn aus der Emil-Ertl-Gasse nicht mehr durch 
-                        das ORF Viertel Richtung Innenstadt fahren, sondern würde auch über die Hauptverbindungen fahren. Hier 
-                        können sich je nach genauer Wohnlage innerhalb des Viertels and je nachdem wo man Durchzugsverkehr unterbindet geringe 
-                        Umwege ergeben.        
+                        das ORF Viertel Richtung Innenstadt fahren, sondern würde auch über die Hauptverbindungen fahren.                         
                         </p>
                         <p class="alert alert-info text-center font-weight-bold p-4 mb-4">
 
@@ -313,8 +280,8 @@
                         <p><strong>Das Problem:</strong></p>
                         <p>
                         Auf der Ostseite des Viertels gibt es nur einen Zugang zur Münzgrabenstraße, der keine Vorrangstaße 
-                        ist: die Harmsdorfgasse. Von der der Kreuzung Münzgrabenstraße/Harmsdorfgasse nutzen viele Autofahrer 
-                        die Schleichroute durch unser Viertel. Eine Hauptroute führt via Harmsdorfgasse und Händelstraße Richtung St. 
+                        ist: die Harmsdorfgasse. Von der der Kreuzung Münzgrabenstraße/Harmsdorfgasse nutzen viele AutofahrerInnen 
+                        Schleichrouten durch unser Viertel. Eine Hauptroute führt via Harmsdorfgasse und Händelstraße Richtung St. 
                         Peter Schulzentrum. Es gibt aber auch Routen südlich des ORF Parks in Richtung Petrifelderstraße. 
                         </p>    
 
@@ -323,14 +290,14 @@
                         Es ist absehbar, dass auch der Ost-West Durchzugsverkehr weiter anwachsen wird. Konkret liegt das 
                         insbesondere an den geplanten Bautätigkeiten im Westen des Viertels (Conrad-von-Hötzendorf-Straße). 
                         Hier entstehen viele neue attraktive Ziele, die man gut quer durch unser Viertel erreichen kann bzw. 
-                        von denen AutofahrerInnen auf die Ostseite des ORF Viertels wollen werden: 
+                        von denen ausgehend AutofahrerInnen auf die Ostseite des ORF Viertels wollen werden: 
                         <a href="https://www.ventagroup.com/de/projekte/graz-mitte/">Graz Mitte</a>, <a href="https://www.kleinezeitung.at/steiermark/graz/18940918/die-plaene-fuer-den-ausbau-der-merkur-arena-in-graz-liebenau">Ausbau des Liebenauer Stadions</a>, <a href="https://www.haring-immobilien.at/mqg/">Messequartier</a>, <a href="https://www.graz.at/cms/beitrag/10413036/8145023/Neues_Einfahrtsgate_fuer_den_Sueden_von.html">Neues "Einfahrtsgate" (Areal Roth Tankstelle)</a>, ...
                         </p>
                         <p><strong>Lösungsmöglichkeiten:</strong></p>
                         <p>
                             Würde der Nord-Süd Verkehr unterbunden (siehe Punkt 1), dann würde damit auch sämtlicher 
-                            Ost-West Verkehr unterbunden, der aktuell südlich des ORF Park passiert. 
-                            Zu lösen wäre dann nur mehr der Ost-West Verkehr nördlich des ORF Park. Das könnte z.B. durch 
+                            Ost-West Verkehr unterbunden, der aktuell südlich des ORF Parks passiert. 
+                            Zu lösen wäre dann nur mehr der Ost-West Verkehr nördlich des ORF Parks. Das könnte z.B. durch 
                             eine Unterbindung des Durchzugsverkehrs in der Händelstraße zwischen Wittenbauerstraße 
                             und Marburger Straße erreicht werden.
                         </p><p>   
@@ -343,7 +310,7 @@
                         <p><strong>Auswirkungen für AnrainerInnen:</strong></p>
                         <p>
                         Eine Unterbindung des Durchzugsverkehrs in der Händelstraße würde für AnrainerInnen teilweise andere Wege bedeuten,
-                        aber bezüglich Weg und Zeit in einer kaum messbaren Dimension. Es gäbe keine größeren Verschiebungen von 
+                        aber bezüglich Wegstrecke und Dauer gäbe es kaum Änderungen. Es gäbe keine größeren Verschiebungen von 
                         Routen mit dem Auto für AnrainerInnen.   
                         </p>
                         
@@ -366,19 +333,20 @@
                         
                         <p><strong>Die Zukunft: </strong></p>
                         <p>
-                        Auch für dieses dritte Thema gilt: Es ist nicht absehbar, dass dieser Ausweichverkehr weniger werden wird. 
-                        Es ist zu erwarten, dass er zu den Stoßzeiten weiter hoch bleibt bzw. höher wird.  
+                        Auch für dieses Thema gilt: Es ist nicht absehbar, dass dieser Ausweichverkehr weniger werden wird. 
+                        Es ist zu erwarten, dass er zu den Stoßzeiten weiter hoch bleibt bzw. weiter zunimmt.   
                         </p>
                         <p><strong>Lösungsmöglichkeiten:</strong></p>
                         <p>
-                          Im Gegensatz zu den Problemen mit Druchzugsverkehr quer durch das Viertel, können diese "Abkürzengen" 
+                          Im Gegensatz zu den Problemen mit Druchzugsverkehr quer durch das Viertel, können diese "Abkürzungen" 
                           durch das Viertel lokal gelöst werden. Eine konkrete Maßnahme wäre z.B. die Aufhebung der 
                           Durchfahrtserlaubnis für den allgemeinen Verkehr im Norden und im Süden der Marburger Straße. 
                           Konkret: Die <a href="https://www.jusline.at/gesetz/stvo/paragraf/67">Straßenverkehrsordnung (StVo) sieht für
                           Fahrradstraßen vor</a>: <strong>"In einer solchen Fahrradstraße ist außer dem Fahrradverkehr jeder Fahrzeugverkehr verboten; ausgenommen davon ist 
-                          das Befahren mit den in § 76a Abs. 5 genannten Fahrzeugen (Anmerknug: Müllabfuhr, Krankentransport, ...) sowie das Befahren zum Zweck des Zu- und Abfahrens."</strong> 
+                          das Befahren mit den in § 76a Abs. 5 genannten Fahrzeugen (Anmerkung: Müllabfuhr, Krankentransport, ...) sowie das Befahren zum Zweck des Zu- und Abfahrens."</strong> 
                           </p><p>
-                          In der Marburgerstraße wurde explizit eine Ausnahme gemacht und der Verkehr 
+                          In der Marburger Straße wurde explizit eine Ausnahme gemacht, die gesetzlich möglich ist:
+                          Es wurde der Verkehr 
                           Nußbaumerstraße &harr; Petrifelderstraße und Brucknerstraße &harr; Rosengasse für alle Fahrzeuge erlaubt. 
                           Würde diese Ausnahme nicht explizit gemacht wären die Ausweichrouten für Kreuzungen in diesem Bereich
                           nicht mehr möglich. 
@@ -659,7 +627,7 @@
 
 
                     <p class="mb-5">
-                        Tragen Sie sich XXX <?php echo "wie $count andere" ?> in unsere Liste von UnterstützerInnen ein. Wir
+                        Tragen Sie sich <?php echo "wie $count andere" ?> in unsere Liste von UnterstützerInnen ein. Wir
                         nutzen den Eintrag, um Sie zu informieren, sobald der Beteiligungsprozess startet. Gleichzeitig
                         schafft Ihr Eintrag eine Vernetzung von UnterstützerInnen im Viertel.</p>
 
