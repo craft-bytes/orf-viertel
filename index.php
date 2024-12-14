@@ -303,16 +303,16 @@
                     <h1>Der Durchzugsverkehr im Detail</h1>
                 </div>
             </div>
-            <div class="row d-flex mb-5">
-                <div class="col-4 mb-3 text-center justify-content-center align-items-center">
+            <div class="row mb-5">
+                <div class="col-12 col-lg-4 mb-3 text-center justify-content-center align-items-center">
                     <img alt="Nord-Süd Durchzugsverkehr" class="img-fluid w-100" src="verkehr_nord_sued.jpg"> 1.
                     Nord-Süd Durchzugsverkehr
                 </div>
-                <div class="col-4 mb-3 text-center justify-content-center align-items-center">
+                <div class="col-12 col-lg-4 mb-3 text-center justify-content-center align-items-center">
                     <img alt="Ost-West Durchzugsverkehr" class="img-fluid w-100" src="verkehr_ost_west.jpg"> 2. Ost-West
                     Durchzugsverkehr
                 </div>
-                <div class="col-4 mb-3 text-center justify-content-center align-items-center">
+                <div class="col-12 col-lg-4 mb-3 text-center justify-content-center align-items-center">
                     <img alt="Lokaler Kreuzungs-Ausweichsverkehr" class="img-fluid w-100" src="verkehr_kreuzungen.jpg">
                     3. Lokaler Kreuzungs-Ausweichverkehr
                 </div>
