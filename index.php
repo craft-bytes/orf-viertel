@@ -22,11 +22,14 @@
      // Verbindung überprüfen
      if ($conn->connect_error) { die("Verbindung fehlgeschlagen: " . $conn->connect_error); }
 
-    // SQL-Abfrage vorbereiten $sql = "SELECT COUNT(1) FROM unterstuetzer";
+    // SQL-Abfrage vorbereiten
+    $sql = "SELECT COUNT(1) FROM unterstuetzer";
 
-    // Abfrage ausführen und Ergebnis prüfen if ($result = mysqli_query($conn, $sql)) { $row =
-    mysqli_fetch_array($result); $count = $row[0]; } else { echo "Fehler: " . $sql . "<br>" . $conn->error; } //
-    Verbindung schließen $conn->close();
+    // Abfrage ausführen und Ergebnis prüfen
+    if ($result = mysqli_query($conn, $sql)) { $row = mysqli_fetch_array($result); $count = $row[0]; } else { echo "Fehler: " . $sql . "<br>" . $conn->error; }
+
+    // Verbindung schließen
+    $conn->close();
 
     ?>
 
