@@ -660,7 +660,7 @@
 
 
                     <p class="mb-5">
-                        Tragen Sie sich <!--<?php echo "wie $count andere" ?> -->in unsere Liste von UnterstützerInnen
+                        Tragen Sie sich <?php echo "wie $count andere" ?> in unsere Liste von UnterstützerInnen
                         ein. Wir nutzen den Eintrag, um Sie zu informieren, sobald der Beteiligungsprozess startet.
                         Gleichzeitig schafft Ihr Eintrag eine Vernetzung von UnterstützerInnen im Viertel.</p>
 
