@@ -13,32 +13,22 @@
 
     <?php
 
-    include 'vars.php';
-    // Datenbankverbindung herstellen
+     include 'vars.php';
+     // Datenbankverbindung herstellen
 
-    // Verbindung zur Datenbank erstellen
-    $conn = new mysqli($servername, $username, $password, $dbname);
+     // Verbindung zur Datenbank erstellen
+     $conn = new mysqli($servername, $username, $password, $dbname);
 
-    // Verbindung überprüfen
-    if ($conn->connect_error) {
-        die("Verbindung fehlgeschlagen: " . $conn->connect_error);
-    }
+     // Verbindung überprüfen
+     if ($conn->connect_error) { die("Verbindung fehlgeschlagen: " . $conn->connect_error); }
 
-    // SQL-Abfrage vorbereiten
-    $sql = "SELECT COUNT(1) FROM unterstuetzer";
+    // SQL-Abfrage vorbereiten $sql = "SELECT COUNT(1) FROM unterstuetzer";
 
-    // Abfrage ausführen und Ergebnis prüfen
-    if ($result = mysqli_query($conn, $sql)) {
-        $row = mysqli_fetch_array($result);
-        $count = $row[0];
-    } else {
-        echo "Fehler: " . $sql . "<br>" . $conn->error;
-    }
-    // Verbindung schließen
-    $conn->close();
+    // Abfrage ausführen und Ergebnis prüfen if ($result = mysqli_query($conn, $sql)) { $row =
+    mysqli_fetch_array($result); $count = $row[0]; } else { echo "Fehler: " . $sql . "<br>" . $conn->error; } //
+    Verbindung schließen $conn->close();
 
     ?>
-
 
     <!--- Transparent -------------------------------------------------------------------------------------->
     <section class="intro" id="intro">
@@ -77,6 +67,47 @@
         </nav>
     </section>
 
+    <!--- Neuigkeiten  --------------------------------------------------------------->
+
+    <section id="News">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 mb-3">
+                    <h1>Neuigkeiten</h1>
+
+
+                    <p><strong>Dezember 2024</strong></p>
+                    <ul>
+                        <li>Aktualisierung der Webseite mit einer <a href="#durchzugsverkehr">Konkretisierung der
+                            Beschreibung der Verkehrsprobleme in unserem Viertel</a> und einem Bereich für aktuelle
+                            Neugikeiten.
+                        </li>
+                        <li>Wir bedanken uns für die großartige Unterstützung in unserem Viertel und die vielen
+                            aufgehängten Plakate. Diese Sichtbarkeit ist sehr wichtig um eine gute Verkehrslösung für
+                            das ganze Viertel zu bekommen.
+                        </li>
+                        <li>Wir führen weiter viele Gespräche. Wie hoffen auf eine baldige Konkretisierung der
+                            zeitlichen Durchführung des Beteiligungsprozesses durch die Stadt Graz. Es ist aktuell vom
+                            1. Halbjahr 2025 auszugehen. Wir informieren sobald mehr Information vorliegt.
+                        </li>
+                    </ul>
+
+                    <p><strong>November 2024</strong></h4></p>
+                    <p>
+                    <ul>
+                        <li>Es finden von Seite der Bürgerinitiative viele Gespräche mit AnrainerInnen und mit
+                            VertreterInnen der Stadt Graz statt. Dies inkludiert Vizebürgermeisterin Schwentner, den
+                            Bezirksrat St. Peter, den Bezirksrat Jakomini und die Verkehrsplanung.
+                        </li>
+                        <li>Die Initiative startet.</li>
+                    </ul>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
     <!--- Hintergrund Info / Problembeschreibung --------------------------------------------------------------->
 
     <section id="info">
@@ -93,12 +124,11 @@
                     <p>
                         Mit der Errichtung der Fahrradstraße Marburger Straße hat sich der Durchzugsverkehr der
                         Marburger Straße auf die anderen Straßen des Viertels verlagert (siehe <a
-                                href="https://umap.openstreetmap.de/en/map/burgerinitiative-superblock-orf-viertel_63644"
-                                target="_blank">interaktive Karte</a>). Für 2025 ist die Errichtung einer Fahrradstraße
+                            href="https://umap.openstreetmap.de/en/map/burgerinitiative-superblock-orf-viertel_63644"
+                            target="_blank">interaktive Karte</a>). Für 2025 ist die Errichtung einer Fahrradstraße
                         Neufeldweg vorgesehen, die potentiell zu weiteren signifikanten Verlagerungen führt. In dem
                         Zusammenhang wird laut <a href="https://www.graz.at/cms/beitrag/10424814/7759964/">offizieller
-                            Aussendung</a> der Stadt Graz in naher Zukunft ein Bürgerbeteiligungsprozess durchgeführt.
-                    </p>
+                        Aussendung</a> der Stadt Graz in naher Zukunft ein Bürgerbeteiligungsprozess durchgeführt. </p>
                     <p class="alert alert-info text-center font-weight-bold p-4 mb-4">
 
                         Der kommende Bürgerbeteiligungsprozess stellt die Weichen für die weitere Verkehrsplanung im ORF
@@ -111,9 +141,9 @@
                         Verkehrsberuhigungen für Wohngebiete werden in vielen Städten bereits gemacht und sind bekannt
                         unter dem Namen "Superblocks". Für unser Viertel ist eine solche großflächige Verkehrsberuhigung
                         aktuell aber erst im <a
-                                href="https://www.graz.at/cms/beitrag/10403377/12799279/Die_Inhalte_des_Mobilitaetsplan_Graz.html"
-                                target="_blank">Mobilitätsplan 2040</a> geplant. Die Probleme mit dem Durchzugsverkehr
-                        haben wir aber bereits jetzt. </p>
+                            href="https://www.graz.at/cms/beitrag/10403377/12799279/Die_Inhalte_des_Mobilitaetsplan_Graz.html"
+                            target="_blank">Mobilitätsplan 2040</a> geplant. Die Probleme mit dem Durchzugsverkehr haben
+                        wir aber bereits jetzt. </p>
 
                     <p class="alert alert-info text-center font-weight-bold p-4 mt-4 mb-4">
                         Wir fordern die sofortige Umsetzung einer flächendeckenden Verkehrsberuhigung für das ORF
@@ -134,11 +164,10 @@
 
                     <p>
                         Wir haben eine <a
-                                href="https://umap.openstreetmap.de/en/map/burgerinitiative-superblock-orf-viertel_63644"
-                                target="_blank">Karte</a> erstellt, die die aktuelle Verkehrssituation im ORF Viertel
-                        zeigt. Die Karte beinhaltet aktuelle Verkehrszählungsdaten und beschreibt die Notwendigkeit
-                        einer großflächigen Verkehrsberuhigung aus der Perspektive der einzelnen Straßen des Viertels.
-                    </p>
+                            href="https://umap.openstreetmap.de/en/map/burgerinitiative-superblock-orf-viertel_63644"
+                            target="_blank">Karte</a> erstellt, die die aktuelle Verkehrssituation im ORF Viertel zeigt.
+                        Die Karte beinhaltet aktuelle Verkehrszählungsdaten und beschreibt die Notwendigkeit einer
+                        großflächigen Verkehrsberuhigung aus der Perspektive der einzelnen Straßen des Viertels. </p>
 
                 </div>
 
@@ -156,6 +185,7 @@
         </div>
     </section>
 
+    <!--- Gruende für einen Superblock --------------------------------------------------------------->
 
     <section class="mt-5" id="Details">
         <h1>Gründe für einen Superblock ORF Viertel</h1>
@@ -171,8 +201,8 @@
                                 Einzelmaßnahmen im Viertel wie die Errichtung der Fahrradstraße Marburger Straße oder
                                 der geplanten Fahrradstraße Neufeldweg schaffen zwar eine lokale Verbesserung für
                                 AnrainerInnen und den Radverkehr. <strong>Leider gehen diese aber auf Kosten der
-                                    Wohnqualität der anderen Straßen im Viertel.</strong> Seit Errichtung der
-                                Fahrradstraße Marburger Straße sehen wir in den umliegenden Wohnstraßen mehr Verkehr:
+                                Wohnqualität der anderen Straßen im Viertel.</strong> Seit Errichtung der Fahrradstraße
+                                Marburger Straße sehen wir in den umliegenden Wohnstraßen mehr Verkehr:
                                 <p class="mt-4">
                                     Händelstraße: +61%<br/> Scheigergasse: + 137%<br/> Neufeldweg: +36%<br/>
                                 </p>
@@ -218,11 +248,12 @@
                                 Mit der Errichtung der Fahrradstraße Marburger Straße wurde eine Maßnahme zur
                                 Verkehrsberuhigung und zur Attraktivierung für den Radverkehr im Viertel gesetzt. Manche
                                 fordern nun eine Öffnung der Marburger Straße. <strong>Dies wäre ein Schritt zurück in
-                                    die Vergangenheit und ein Schritt in die Richtung der Förderung von Durchzugsverkehr
-                                    durch unser Viertel.</strong> Der Durchzugsverkehr wird immer mehr werden. Die
+                                die Vergangenheit und ein Schritt in die Richtung der Förderung von Durchzugsverkehr
+                                durch unser Viertel.</strong> Der Durchzugsverkehr wird immer mehr werden. Die
                                 Bebauungsdichten werden höher und es entstehen mehrere Großprojekte unmittelbar neben
                                 unserem Viertel, die noch mehr Verkehr anziehen werden: Der Ausbau des TU Campus
-                                Inffeldgasse, der Ausbau des Liebenauer Stadions, das Projekt "Graz Mitte", ...
+                                Inffeldgasse, der Ausbau des Liebenauer Stadions, das Projekt "Graz Mitte", ... (siehe
+                                <a href="#bauprojekte">Grafik unten</a>)
                             </div>
                         </div>
 
@@ -245,7 +276,7 @@
                                 Verkehrsmessungen nicht wirksam. Auch Fahrradstraßen ohne Durchfahrtssperren für den
                                 Autoverkehr wären keine wirksame Maßnahme. Das würde keine Verbesserung für den
                                 Radverkehr oder die AnrainerInnen bringen. <strong>Es wären "Alibi-Fahrradstraßen" mit
-                                    vielen Schildern, aber ohne Effekt.</strong>
+                                vielen Schildern, aber ohne Effekt.</strong>
                             </div>
                         </div>
 
@@ -259,6 +290,221 @@
 
         </div>
     </section>
+
+    <!--- Problembeschreibung --------------------------------------------------------------->
+
+    <section id="durchzugsverkehr">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 mb-3">
+                    <h1>Der Durchzugsverkehr im Detail</h1>
+                </div>
+            </div>
+            <div class="row d-flex mb-5">
+                <div class="col-4 mb-3 text-center justify-content-center align-items-center">
+                    <img alt="Nord-Süd Durchzugsverkehr" class="img-fluid w-100" src="verkehr_nord_sued.jpg"> 1.
+                    Nord-Süd Durchzugsverkehr
+                </div>
+                <div class="col-4 mb-3 text-center justify-content-center align-items-center">
+                    <img alt="Ost-West Durchzugsverkehr" class="img-fluid w-100" src="verkehr_ost_west.jpg"> 2. Ost-West
+                    Durchzugsverkehr
+                </div>
+                <div class="col-4 mb-3 text-center justify-content-center align-items-center">
+                    <img alt="Lokaler Kreuzungs-Ausweichsverkehr" class="img-fluid w-100" src="verkehr_kreuzungen.jpg">
+                    3. Lokaler Kreuzungs-Ausweichverkehr
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-12 mb-3">
+                    <p> Es gibt grundsätzlich drei Verkehrsprobleme im ORF Viertel:</p>
+                    <ol>
+                        <li><strong>Nord-Süd Durchzugsverkehr: </strong> Das ORF Viertel ist Zubringer zur Autobahn und
+                            zum Murpark.
+                        </li>
+                        <li><strong>Ost-West Durchzugsverkehr: </strong> Das ORF Viertel wird von der Münzgrabenstr. zur
+                            St. Peterhauptstr. durchquert und umgekehrt.
+                        </li>
+
+                        <li><strong>Lokaler Kreuzungs-Ausweichverkehr:</strong> Ampelkreuzungen werden via
+                            Schleichrouten an den Kanten des Viertel umfahren.
+                        </li>
+                    </ol>
+
+                    <p>Es gibt auch Überlagerungseffekte dieser drei Verkehrsarten. Wir diskutieren im Folgenden die
+                        Probleme und unsere daraus abgeleiteten Forderungen.</p>
+
+                    <h4>1. Das ORF Viertel ist Zubringer zur Autobahn und zum Murpark</h4>
+
+                    <p><strong>Das Problem:</strong></p>
+                    <p>
+                        Um die Nord-Süd Hauptverbindungen (Münzgrabenstraße, St. Peter Hauptstraße) auf dem Weg zur
+                        Autobahn oder zum Murpark zu umgehen, fahren immer mehr PendlerInnen und GrazerInnen durch das
+                        ORF Viertel. Der Grund ist einfach: Durch das ORF Viertel kommt man ampelfrei vom Murpark zum
+                        St. Peter Schulzentrum oder in die Münzgrabenstraße. Natürlich gilt das auch in der
+                        Gegenrichtung. </p>
+
+                    <p><strong>Die Zukunft: </strong></p>
+                    Es ist absehbar, dass der Nord-Süd Durchzugsverkehr weiter anwachsen wird. Konkrete Gründe:
+                    <ul>
+                        <li><strong>Kreisverkehr Neufeldweg:</strong> Es ist ein Kreisverkehr an der Kreuzung
+                            Neufeldweg/Petrifelderstraße geplant. Mit diesem Kreisverkehr wird es nochmals erheblich
+                            bequemer im Süden des Viertels in die Schleichrouten durch unser Viertel einzufahren.
+                        </li>
+                        <li><strong>Neubauten rund um das ORF Viertel:</strong> Der <a
+                                href="https://www.tugraz.at/tu-graz/services/news-stories/tu-graz-news/einzelansicht/article/masterplan-fuer-den-campus-inffeldgasse-der-tu-graz">TU
+                            Campus</a> im Norden des ORF Viertels wird stark ausgebaut und bekommt eine Zufahrt via
+                            Brucknerstraße. Das erhöht den Druck auf die Nord-Süd Verbindungen durch das Viertel. Auch
+                            die Bauprojekte im Westen des Viertels (<a
+                                    href="https://www.ventagroup.com/de/projekte/graz-mitte/">Graz Mitte</a>, <a
+                                    href="https://www.kleinezeitung.at/steiermark/graz/18940918/die-plaene-fuer-den-ausbau-der-merkur-arena-in-graz-liebenau">Ausbau
+                                des Liebenauer Stadions</a>, <a href="https://www.haring-immobilien.at/mqg/">Messequartier</a>,
+                            <a href="https://www.graz.at/cms/beitrag/10413036/8145023/Neues_Einfahrtsgate_fuer_den_Sueden_von.html">Neues
+                                "Einfahrtsgate" (Areal Roth Tankstelle)</a>, ... ) führen in Zukfunt zu mehr Verkehr auf
+                            den klassischen Nord-Süd Achsen der Stadt und damit auch zu mehr Druck auf die
+                            Schleichrouten durch unser Viertel.
+                        </li>
+                    </ul>
+
+                    <p><strong>Unsere Forderung:</strong></p>
+                    <p>
+                        Das Versetzen von Parkplätzen (Scheigergasse, Händelstraße) hatte praktisch keinen Effekt auf
+                        den Verkehr (bestätigt durch Verkehrsmessungen). Wir fordern wirksame Maßnahmen zur Unterbindung
+                        des Nord-Süd Durchzugsverkehrs. Hierfür sind insbesondere Maßnahmen in der Wittenbauerstraße,
+                        der Scheigergasse, im Neufeldweg, und in der Schwarzenberggasse notwendig. Werden nicht alle
+                        Nord-Süd-Verbindungen berücksichtigt, führt dies nur zu unerwünschten Verlagerungseffekten.
+
+                    <p class="alert alert-info text-center font-weight-bold p-4 mb-4">
+                        Aktuell wird das ORF Viertel als Zubringer zum Murkpark und zur Autobahn genutzt. Es ist
+                        absehbar, dass dieser Verkehr immer mehr werden wird. Es sind wirksame Maßnahmen notwendig um
+                        diesen Nord-Süd Durchzugsverkehr zu unterbinden. </p>
+
+                    <h4>2. Ost-West Durchzugsverkehr Münzgrabenstraße &harr; St. Peter Hautpstraße</h4>
+
+                    <p><strong>Das Problem:</strong></p>
+                    <p>
+                        Auf der Ostseite des Viertels gibt es nur einen Zugang zur Münzgrabenstraße, der keine
+                        Vorrangstaße ist: die Harmsdorfgasse. Von der der Kreuzung Münzgrabenstraße/Harmsdorfgasse
+                        nutzen viele AutofahrerInnen Schleichrouten durch unser Viertel. Eine Hauptroute führt via
+                        Harmsdorfgasse und Händelstraße Richtung St. Peter Schulzentrum. Es gibt aber auch Routen
+                        südlich des ORF Parks in Richtung Petrifelderstraße. </p>
+
+                    <p><strong>Die Zukunft: </strong></p>
+                    <p>
+                        Es ist absehbar, dass auch der Ost-West Durchzugsverkehr weiter anwachsen wird. Konkret liegt
+                        das insbesondere an den geplanten Bautätigkeiten im Westen des Viertels
+                        (Conrad-von-Hötzendorf-Straße). Hier entstehen viele neue attraktive Ziele, die man gut quer
+                        durch unser Viertel erreichen kann bzw. von denen ausgehend AutofahrerInnen auf die Ostseite des
+                        ORF Viertels wollen werden: <a href="https://www.ventagroup.com/de/projekte/graz-mitte/">Graz
+                        Mitte</a>, <a
+                            href="https://www.kleinezeitung.at/steiermark/graz/18940918/die-plaene-fuer-den-ausbau-der-merkur-arena-in-graz-liebenau">Ausbau
+                        des Liebenauer Stadions</a>, <a href="https://www.haring-immobilien.at/mqg/">Messequartier</a>,
+                        <a href="https://www.graz.at/cms/beitrag/10413036/8145023/Neues_Einfahrtsgate_fuer_den_Sueden_von.html">Neues
+                            "Einfahrtsgate" (Areal Roth Tankstelle)</a>, ... </p>
+                    <p><strong>Unsere Forderung:</strong></p>
+                    <p>
+                        Wir fordern wirksame Maßnahmen zur Unterbindung des Ost-West Durchzugsverkehrs. Hierbei gibt es
+                        potentielle Synergien mit der Unterbindung des Nord-Süd Durchzugsverkehrs. Würde man z.B. den
+                        Nord-Süd Durchzugsverkehr südlich der Harmsdorfgasse unterbinden, gäbe es dann auch keinen
+                        Ost-West Verkehr südlich des ORF Parks mehr. Nördlich des ORF Parks ist inbesondere eine
+                        Unterbindung des Ost-West Verkehrs in der Händelstraße notwendig.
+
+                    <p class="alert alert-info text-center font-weight-bold p-4 mb-4">
+                        Aktuell wird das ORF Viertel von der Harmsdorfgasse Richtung St. Peter Hauptstraße auf mehreren
+                        Routen durchquert (gilt auch in Gegenrichtung). Es ist absehbar, dass auch dieser Verkehr mehr
+                        werden wird. Es sind wirksame Maßnahmen notwendig um diesen Verkehr zu unterbinden. </p>
+
+                    <h4>3. Das ORF Viertel ist Ausweichroute für ampelgergelte Kreuzungen</h4>
+
+                    <p><strong>Das Problem:</strong></p>
+                    <p>
+                        Es gibt lokale Ausweichrouten für Kreuzungen. Dabei wird nicht das ganze Viertel durchquert
+                        sondern es wird nur eine Eckverbindung gemacht. Konkret: Man kann z.B. die Kreuzung St.Peter
+                        Hauptstraße/Petrifelderstraße via Nußbaumerstraße und Marburgerstraße umfahren. Solche Routen
+                        rund um die Marburger Straße basieren auf der expliziten Erlaubnis von Durchzugsverkehr in der
+                        Marburger Straße im Bereich Nußbaumerstraße &harr; Petrifelderstraße und Brucknerstraße &harr;
+                        Rosengasse. </p>
+                    <p>
+                        Eine solche Durchfahrt für den allgemeinen Verkehr ist aber eigentlich nicht notwendig: Die <a
+                            href="https://www.jusline.at/gesetz/stvo/paragraf/67">Straßenverkehrsordnung (StVo) sieht
+                        für Fahrradstraßen vor</a>: "In einer solchen Fahrradstraße ist außer dem Fahrradverkehr jeder
+                        Fahrzeugverkehr verboten; ausgenommen davon ist das Befahren mit den in § 76a Abs. 5 genannten
+                        Fahrzeugen (Anmerkung: Müllabfuhr, Krankentransport, ...) sowie das Befahren zum Zweck des Zu-
+                        und Abfahrens." </p>
+                    <p>
+
+                    </p>
+                    <p><strong>Die Zukunft: </strong></p>
+                    <p>
+                        Auch für dieses Thema gilt: Es ist nicht absehbar, dass dieser Ausweichverkehr weniger werden
+                        wird. Es ist zu erwarten, dass er zu den Stoßzeiten weiter zunimmt. </p>
+                    <p><strong>Unsere Forderung:</strong></p>
+                    <p>
+                        Wir fordern, dass Verkehrsmaßnahmen im Viertel, die sowohl Durchzugsverkehr als auch lokale
+                        "Abkürzungen" rund um Kreuzungsbereiche unterbunden werden. </p>
+
+                    <p class="alert alert-info text-center font-weight-bold p-4 mb-4">
+                        Aktuell gibt es mehrere "Abkürzungen" durch das ORF Viertel mit den ampelgeregelte Kreuzungen
+                        umfahren werden können. Es sind Verkehrsmaßnahmen notwendig, dass auch diese "Abkürzungen"
+                        unterbunden werden. </p>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Zukunft  ------------------------------------------------------------------------------------------->
+    <section id="bauprojekte">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 mb-3">
+                    <h1>Großprojekte rund um unser Viertel</h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 mb-3">
+                    Die Bebauungsdichten in unserem Viertel werden höher, es entstehen mehrere Großprojekte unmittelbar
+                    rund um unser Viertel, die noch mehr Verkehr anziehen und den Druck auf den Verkehr in unseren
+                    Straßen nochmals erhöhen werden.
+                </div>
+                <div class="col-12 mt-3 align-items-center">
+                    <div class="text-center">
+                        <img alt="Bauprojekte rund um unser Viertel" class="img-fluid w-75" src="bauprojekte.png"/>
+                    </div>
+                    <div class="text-center">
+                        Die geplanten Großprojekte rund um unser Viertel
+                    </div>
+                </div>
+                <div class="col-12 mt-5">
+                    Weitere Detailinformation zu den einzelnen Projekten findet man unter anderem unter:
+                    <ul class="mt-3">
+                        <li>
+                            <a href="https://www.kleinezeitung.at/steiermark/graz/18940918/die-plaene-fuer-den-ausbau-der-merkur-arena-in-graz-liebenau">Ausbaupläne
+                                für die Merkur Arena</a></li>
+                        <li>
+                            <a href="https://www.kleinezeitung.at/steiermark/graz/6308525/Riesiges-Bauprojekt_Der-Grazer-Sueden-bekommt-ein-neues-Einfahrtsgate">Einfahrtsgate
+                                Roth, Granit Bau</a></li>
+                        <li><a href="https://www.ventagroup.com/de/projekte/graz-mitte/">Projekt Graz Mitte</a></li>
+                        <li>
+                            <a href="https://www.architekturwettbewerb.at/competition/oebb-areal-ostbahnhof-raiffeisenstrasse/6400">ÖBB
+                                Areal Ostbahnhof</a></li>
+                        <li><a href="https://www.haring-immobilien.at/mqg/">Projekt Messequadrant Graz</a></li>
+                        <li>
+                            <a href="https://www.jakomini-info.at/stadtteilversammlung-tu-campus-inffeldgruende-praesentation-eines-masterplans//">Masterplan
+                                TU Campus Inffeldgründe</a></li>
+                        <li>
+                            <a href="https://www.graz.at/cms/dokumente/10084441_7758072/e29899e7/40%20FWP%20Broschüre.pdf/">Flächenwidmungsplan
+                                der Stadt Graz</a></li>
+                        <li>
+                            <a href="https://www.meinbezirk.at/graz/c-lokales/kein-zeitplan-fuer-kreisverkehr-in-der-petrifelderstrasse_a6488005">Kreisverkehr
+                                Petrifelderstraße</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
 
     <!-- FAQ  ------------------------------------------------------------------------------------------->
     <section class="faq mt-5 pt-2" id="faq">
@@ -287,7 +533,7 @@
                     </p>
                     <ul>
                         <li><a href="https://de.wikipedia.org/wiki/Superblock_(Stadtplanung)">Beschreibung von
-                                Superblocks auf Wikipedia</a>
+                            Superblocks auf Wikipedia</a>
                         </li>
                         <li>
                             <a href="https://www.graz.at/cms/beitrag/10403377/12799279/Die_Inhalte_des_Mobilitaetsplan_Graz.html">Ziele
@@ -332,7 +578,7 @@
                         Wir sind aus diesem Grund auch gegen eine Wiederöffnung der Marburger Straße für den
                         Autoverkehr, wie von einigen gefordert wird. Eine Wiedereröffnung hätte massive Nachteile für
                         die dort ansässigen Bewohner. <strong>Wir wollen jedoch eine gute Lösung für ALLE
-                            AnrainerInnen.</strong> Wir sind davon überzeugt, dass nicht nur der Durchzugsverkehr in der
+                        AnrainerInnen.</strong> Wir sind davon überzeugt, dass nicht nur der Durchzugsverkehr in der
                         Marburger Straße zurückkommen würde. Die neuen Ausweichrouten durch unser Viertel haben sich
                         mittlerweile leider etabliert. Bei einer Wiederöffnung der Marburger Straße würde die
                         Verkehrsbelastung in anderen Straßen in unserem Viertel trotzdem spürbar hoch bleiben. </p>
@@ -363,10 +609,10 @@
                         sieht zwei Fahrradstraßen im ORF Viertel vor:</p>
                     <ul>
                         <li> Marburger Straße – bereits umgesetzt (<a
-                                    href="https://rad.graz.at/masterplan/">Masterplan</a> S. 174, Abschnitt 6)
+                                href="https://rad.graz.at/masterplan/">Masterplan</a> S. 174, Abschnitt 6)
                         </li>
                         <li>Neufeldweg – Umsetzung 2025 geplant (<a
-                                    href="https://rad.graz.at/masterplan/">Masterplan</a> S. 182, Abschnitt 3)
+                                href="https://rad.graz.at/masterplan/">Masterplan</a> S. 182, Abschnitt 3)
                         </li>
                     </ul>
 
@@ -411,9 +657,9 @@
 
 
                     <p class="mb-5">
-                        Tragen Sie sich <?php echo "wie $count andere" ?> in unsere Liste von UnterstützerInnen ein. Wir
-                        nutzen den Eintrag, um Sie zu informieren, sobald der Beteiligungsprozess startet. Gleichzeitig
-                        schafft Ihr Eintrag eine Vernetzung von UnterstützerInnen im Viertel.</p>
+                        Tragen Sie sich <!--<?php echo "wie $count andere" ?> -->in unsere Liste von UnterstützerInnen
+                        ein. Wir nutzen den Eintrag, um Sie zu informieren, sobald der Beteiligungsprozess startet.
+                        Gleichzeitig schafft Ihr Eintrag eine Vernetzung von UnterstützerInnen im Viertel.</p>
 
                     <form accept-charset="utf-8" action="submit.php" method="POST">
                         <div class="row">
@@ -453,7 +699,7 @@
                                                          width="200"></a>
 
                         <br/><br/> Für ein größeres Transparent melden Sie sich unter <a
-                                href="mailto:superblock@orf-viertel.at">superblock@orf-viertel.at</a>.
+                            href="mailto:superblock@orf-viertel.at">superblock@orf-viertel.at</a>.
 
                     </p>
 
@@ -467,9 +713,9 @@
                         Lösung für das aktuelle Verkehrsproblem unseres Viertels zu finden. </p>
                     <p>
                         Diese Initiative ist aus der Unterschriften Petition <a
-                                href="https://mein.aufstehn.at/petitions/fahrradstrasse-marburger-strasse-ja-schleich-und-durchzugsverkehr-im-wohngebiet-nein-1">"Fahrradstraße
-                            Marburger Straße: JA, Schleich- und Durchzugsverkehr im Wohngebiet: NEIN!"</a> entstanden,
-                        die bereits von 800 Personen unterzeichnet wurde. Danke für Ihre großartige Unterstützung! Wir
+                            href="https://mein.aufstehn.at/petitions/fahrradstrasse-marburger-strasse-ja-schleich-und-durchzugsverkehr-im-wohngebiet-nein-1">"Fahrradstraße
+                        Marburger Straße: JA, Schleich- und Durchzugsverkehr im Wohngebiet: NEIN!"</a> entstanden, die
+                        bereits von 800 Personen unterzeichnet wurde. Danke für Ihre großartige Unterstützung! Wir
                         werden weitermachen, bis eine akzeptable Lösung des Durchzugsverkehrs für alle gefunden und
                         umgesetzt ist. </p>
 
@@ -477,7 +723,7 @@
 
                     <p>
                         Sie wollen mitmachen? Wir freuen uns über jede helfende Hand! Melden sie sich einfach via <a
-                                href="mailto:superblock@orf-viertel.at">superblock@orf-viertel.at</a>. </p>
+                            href="mailto:superblock@orf-viertel.at">superblock@orf-viertel.at</a>. </p>
 
 
                 </div>
