@@ -367,7 +367,7 @@
                             die Bauprojekte im Westen des Viertels (<a
                                     href="https://www.ventagroup.com/de/projekte/graz-mitte/">Graz Mitte</a>, <a
                                     href="https://www.kleinezeitung.at/steiermark/graz/18940918/die-plaene-fuer-den-ausbau-der-merkur-arena-in-graz-liebenau">Ausbau
-                                des Liebenauer Stadions</a>, <a href="https://www.haring-immobilien.at/mqg/">Messequartier</a>,
+                                des Liebenauer Stadions</a>, <a href="https://www.haring-immobilien.at/mqg/">Messequadrant</a>,
                             <a href="https://www.graz.at/cms/beitrag/10413036/8145023/Neues_Einfahrtsgate_fuer_den_Sueden_von.html">Neues
                                 "Einfahrtsgate" (Areal Roth Tankstelle)</a>, ... ) führen in Zukfunt zu mehr Verkehr auf
                             den klassischen Nord-Süd Achsen der Stadt und damit auch zu mehr Druck auf die
@@ -405,20 +405,21 @@
                         das insbesondere an den geplanten Bautätigkeiten im Westen des Viertels
                         (Conrad-von-Hötzendorf-Straße). Hier entstehen viele neue attraktive Ziele, die man gut quer
                         durch unser Viertel erreichen kann bzw. von denen ausgehend AutofahrerInnen auf die Ostseite des
-                        ORF Viertels wollen werden(siehe auch 
+                        ORF Viertels wollen werden (siehe auch 
                         <a href="#bauprojekte">Grafik unten</a>): <a href="https://www.ventagroup.com/de/projekte/graz-mitte/">Graz
                         Mitte</a>, <a
                             href="https://www.kleinezeitung.at/steiermark/graz/18940918/die-plaene-fuer-den-ausbau-der-merkur-arena-in-graz-liebenau">Ausbau
-                        des Liebenauer Stadions</a>, <a href="https://www.haring-immobilien.at/mqg/">Messequartier</a>,
+                        des Liebenauer Stadions</a>, <a href="https://www.haring-immobilien.at/mqg/">Messequadrant</a>,
                         <a href="https://www.graz.at/cms/beitrag/10413036/8145023/Neues_Einfahrtsgate_fuer_den_Sueden_von.html">Neues
                             "Einfahrtsgate" (Areal Roth Tankstelle)</a>, ... </p>
                     <p><strong>Unsere Forderung:</strong></p>
                     <p>
                         Wir fordern wirksame Maßnahmen zur Unterbindung des Ost-West Durchzugsverkehrs. Hierbei gibt es
-                        potentielle Synergien mit der Unterbindung des Nord-Süd Durchzugsverkehrs. Würde man z.B. den
-                        Nord-Süd Durchzugsverkehr südlich der Harmsdorfgasse unterbinden, gäbe es dann auch keinen
-                        Ost-West Verkehr südlich des ORF Parks mehr. Nördlich des ORF Parks ist inbesondere eine
-                        Unterbindung des Ost-West Verkehrs in der Händelstraße notwendig.
+                        potentielle Synergien mit der Unterbindung des Nord-Süd Durchzugsverkehrs, weil der Ost-West Durchzugsverkehr
+                        auch immer eine Nord-Süd Komponente hat um nördlich oder südlich am ORF Park vorbei zu fahren.
+                        An den Stellen wo es keine Synergien gibt, sind dezidierte Maßnahmen zur Unterbindung des Ost-West 
+                        Durchzugsverkehrs notwendig.
+                        
 
                     <p class="alert alert-info text-center font-weight-bold p-4 mb-4">
                         Aktuell wird das ORF Viertel von der Harmsdorfgasse Richtung St. Peter Hauptstraße auf mehreren
@@ -451,7 +452,7 @@
                         wird. Es ist zu erwarten, dass er zu den Stoßzeiten weiter zunimmt. </p>
                     <p><strong>Unsere Forderung:</strong></p>
                     <p>
-                        Wir fordern, dass Verkehrsmaßnahmen im Viertel, die sowohl Durchzugsverkehr als auch lokale
+                        Wir fordern, dass durch Verkehrsmaßnahmen im Viertel, sowohl Durchzugsverkehr, als auch lokale
                         "Abkürzungen" rund um Kreuzungsbereiche unterbunden werden. </p>
 
                     <p class="alert alert-info text-center font-weight-bold p-4 mb-4">
