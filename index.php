@@ -326,7 +326,7 @@
 
             <div class="row">
                 <div class="col-12 mb-3">
-                    <p> Es gibt grundsätzlich drei Verkehrsprobleme im ORF Viertel:</p>
+                    <p> Es gibt grundsätzlich drei Arten von Verkehrsproblemen im ORF Viertel:</p>
                     <ol>
                         <li><strong>Nord-Süd Durchzugsverkehr: </strong> Das ORF Viertel ist Zubringer zur Autobahn und
                             zum Murpark.
@@ -340,7 +340,7 @@
                         </li>
                     </ol>
 
-                    <p>Es gibt auch Überlagerungseffekte dieser drei Verkehrsarten. Wir diskutieren im Folgenden die
+                    <p>Es gibt auch Überlagerungseffekte dieser drei Arten von Verkehr. Wir diskutieren im Folgenden die
                         Probleme und unsere daraus abgeleiteten Forderungen.</p>
 
                     <h4>1. Das ORF Viertel ist Zubringer zur Autobahn und zum Murpark</h4>
