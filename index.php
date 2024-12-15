@@ -77,17 +77,22 @@
             <div class="row">
                 <div class="col-12 mb-3">
                     <h1>Neuigkeiten</h1>
-
+                    <p>
+                    Wir bedanken uns für die großartige Unterstützung in unserem Viertel und die vielen
+                    aufgehängten Plakate. Dies ist essentiell um eine gute Verkehrslösung für
+                    das ganze Viertel zu bekommen.
+                    </p>
 
                     <p><strong>Dezember 2024</strong></p>
                     <ul>
-                        <li>Aktualisierung der Webseite mit einer <a href="#durchzugsverkehr">Konkretisierung der
-                            Beschreibung der Verkehrsprobleme in unserem Viertel</a> und einem Bereich für aktuelle
-                            Neugikeiten.
-                        </li>
-                        <li>Wir bedanken uns für die großartige Unterstützung in unserem Viertel und die vielen
-                            aufgehängten Plakate. Diese Sichtbarkeit ist sehr wichtig um eine gute Verkehrslösung für
-                            das ganze Viertel zu bekommen.
+                        <li>Aktualisierung der Webseite mit  
+                            <ul><li><a href="#durchzugsverkehr">einer Konkretisierung der
+                            Beschreibung der Verkehrsprobleme in unserem Viertel</a>, </li>
+                            <li><a href="#bauprojekte">einer Karte mit für den Verkehr
+                            in Zukunft relevanter Projekte rund um unsere Viertel</a></li>  
+                            <li> und einem Bereich für aktuelle
+                            Neuigkeiten.</li>
+                            </ul>
                         </li>
                         <li>Wir führen weiter viele Gespräche. Wie hoffen auf eine baldige Konkretisierung der
                             zeitlichen Durchführung des Beteiligungsprozesses durch die Stadt Graz. Es ist aktuell vom
@@ -305,15 +310,15 @@
             </div>
             <div class="row mb-5">
                 <div class="col-12 col-lg-4 mb-3 text-center justify-content-center align-items-center">
-                    <img alt="Nord-Süd Durchzugsverkehr" class="img-fluid w-100" src="verkehr_nord_sued.jpg"> 1.
+                    <a href="verkehr_nord_sued.jpg"><img alt="Nord-Süd Durchzugsverkehr" class="img-fluid w-100" src="verkehr_nord_sued.jpg"></a> 1.
                     Nord-Süd Durchzugsverkehr
                 </div>
                 <div class="col-12 col-lg-4 mb-3 text-center justify-content-center align-items-center">
-                    <img alt="Ost-West Durchzugsverkehr" class="img-fluid w-100" src="verkehr_ost_west.jpg"> 2. Ost-West
+                    <a href="verkehr_ost_west.jpg"><img alt="Ost-West Durchzugsverkehr" class="img-fluid w-100" src="verkehr_ost_west.jpg"></a> 2. Ost-West
                     Durchzugsverkehr
                 </div>
                 <div class="col-12 col-lg-4 mb-3 text-center justify-content-center align-items-center">
-                    <img alt="Lokaler Kreuzungs-Ausweichsverkehr" class="img-fluid w-100" src="verkehr_kreuzungen.jpg">
+                    <a href="verkehr_kreuzungen.jpg"><img alt="Lokaler Kreuzungs-Ausweichsverkehr" class="img-fluid w-100" src="verkehr_kreuzungen.jpg"></a>
                     3. Lokaler Kreuzungs-Ausweichverkehr
                 </div>
             </div>
@@ -357,7 +362,7 @@
                         </li>
                         <li><strong>Neubauten rund um das ORF Viertel:</strong> Der <a
                                 href="https://www.tugraz.at/tu-graz/services/news-stories/tu-graz-news/einzelansicht/article/masterplan-fuer-den-campus-inffeldgasse-der-tu-graz">TU
-                            Campus</a> im Norden des ORF Viertels wird stark ausgebaut und bekommt eine Zufahrt via
+                            Campus</a> im Norden des ORF Viertels wird stark ausgebaut und bekommt einen Zugang via
                             Brucknerstraße. Das erhöht den Druck auf die Nord-Süd Verbindungen durch das Viertel. Auch
                             die Bauprojekte im Westen des Viertels (<a
                                     href="https://www.ventagroup.com/de/projekte/graz-mitte/">Graz Mitte</a>, <a
@@ -366,7 +371,8 @@
                             <a href="https://www.graz.at/cms/beitrag/10413036/8145023/Neues_Einfahrtsgate_fuer_den_Sueden_von.html">Neues
                                 "Einfahrtsgate" (Areal Roth Tankstelle)</a>, ... ) führen in Zukfunt zu mehr Verkehr auf
                             den klassischen Nord-Süd Achsen der Stadt und damit auch zu mehr Druck auf die
-                            Schleichrouten durch unser Viertel.
+                            Schleichrouten durch unser Viertel (siehe auch 
+                            <a href="#bauprojekte">Grafik unten</a>).
                         </li>
                     </ul>
 
@@ -399,7 +405,8 @@
                         das insbesondere an den geplanten Bautätigkeiten im Westen des Viertels
                         (Conrad-von-Hötzendorf-Straße). Hier entstehen viele neue attraktive Ziele, die man gut quer
                         durch unser Viertel erreichen kann bzw. von denen ausgehend AutofahrerInnen auf die Ostseite des
-                        ORF Viertels wollen werden: <a href="https://www.ventagroup.com/de/projekte/graz-mitte/">Graz
+                        ORF Viertels wollen werden(siehe auch 
+                        <a href="#bauprojekte">Grafik unten</a>): <a href="https://www.ventagroup.com/de/projekte/graz-mitte/">Graz
                         Mitte</a>, <a
                             href="https://www.kleinezeitung.at/steiermark/graz/18940918/die-plaene-fuer-den-ausbau-der-merkur-arena-in-graz-liebenau">Ausbau
                         des Liebenauer Stadions</a>, <a href="https://www.haring-immobilien.at/mqg/">Messequartier</a>,
@@ -462,13 +469,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 mb-3">
-                    <h1>Großprojekte rund um unser Viertel</h1>
+                    <h1>Verkehrsrelevante Projekte rund um unser Viertel</h1>
                 </div>
             </div>
             <div class="row">
                 <div class="col-12 mb-3">
-                    Die Bebauungsdichten in unserem Viertel werden höher, es entstehen mehrere Großprojekte unmittelbar
-                    rund um unser Viertel, die noch mehr Verkehr anziehen und den Druck auf den Verkehr in unseren
+                    Die Bebauungsdichten in unserem Viertel werden höher. Gleichzeitig entstehen mehrere Großprojekte unmittelbar
+                    rund um unser Viertel, die in Zukunft mehr Verkehr anziehen und den Druck auf den Verkehr in unseren
                     Straßen nochmals erhöhen werden.
                 </div>
                 <div class="col-12 mt-3 align-items-center">
@@ -476,7 +483,7 @@
                         <img alt="Bauprojekte rund um unser Viertel" class="img-fluid w-75" src="bauprojekte.png"/>
                     </div>
                     <div class="text-center">
-                        Die geplanten Großprojekte rund um unser Viertel
+                        Die geplanten Projekte rund um unser Viertel
                     </div>
                 </div>
                 <div class="col-12 mt-5">
@@ -494,10 +501,10 @@
                                 Areal Ostbahnhof</a></li>
                         <li><a href="https://www.haring-immobilien.at/mqg/">Projekt Messequadrant Graz</a></li>
                         <li>
-                            <a href="https://www.jakomini-info.at/stadtteilversammlung-tu-campus-inffeldgruende-praesentation-eines-masterplans//">Masterplan
+                            <a href="https://www.tugraz.at/tu-graz/services/news-stories/tu-graz-news/einzelansicht/article/masterplan-fuer-den-campus-inffeldgasse-der-tu-graz">
                                 TU Campus Inffeldgründe</a></li>
                         <li>
-                            <a href="https://www.graz.at/cms/dokumente/10084441_7758072/e29899e7/40%20FWP%20Broschüre.pdf/">Flächenwidmungsplan
+                            <a href="https://www.graz.at/cms/dokumente/10084441_7758072/e29899e7/40%20FWP%20Broschüre.pdf">Bereich Emil-Ertl-Gasse im Flächenwidmungsplan
                                 der Stadt Graz</a></li>
                         <li>
                             <a href="https://www.meinbezirk.at/graz/c-lokales/kein-zeitplan-fuer-kreisverkehr-in-der-petrifelderstrasse_a6488005">Kreisverkehr
