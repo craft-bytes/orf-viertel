@@ -267,16 +267,17 @@
                                 <p>
                                 Mit der Errichtung der Fahrradstraße Marburger Straße wurde eine Maßnahme zur
                                 Verkehrsberuhigung und zur Attraktivierung für den Radverkehr im Viertel gesetzt. Manche
-                                fordern nun eine Öffnung der Marburger Straße. <strong>Dies wäre ein Schritt zurück in
-                                die Vergangenheit und ein Schritt in die Richtung der Förderung von Durchzugsverkehr
-                                durch unser Viertel.</strong> 
+                                fordern nun eine Öffnung der Marburger Straße. <strong>Dies wäre jedoch ein Schritt zurück in
+                                die Vergangenheit mit dem sich die zukünftigen Verkehrsprobleme nicht lösen lassen. </strong>
                                 </p>
                                 <p>
                                 Mit den immer höheren Bebauungsdichten und den 
                                 <a href="#bauprojekte">Bauprojekten</a> in und rund um unser Viertel, wird der Verkehrsdruck 
-                                immer höher. Die Verkehrsprobleme auf Hauptstraßen wie der St. Peter Hauptstraße und der Münzgrabenstraße können 
-                                nur mit übergeordneten Maßnahmen (Ausbau der Öffis, P+R, …) gelöst werden. Durchzugsverkehr 
-                                gehört nicht ins Wohngebiet.
+                                immer höher und es kommt zu mehr Durchzugsverkehr auf allen Straßen des Viertels. Durchzugsverkehr 
+                                gehört jedoch nicht ins Wohngebiet.                              
+                                Die Verkehrsprobleme auf Hauptstraßen wie der St. Peter Hauptstraße und der Münzgrabenstraße können nur
+                                mit übergeordneten Maßnahmen (Ausbau der Öffis, P+R, …) gelöst werden und nicht mit Schleichwegen
+                                durch unser Wohngebiet. 
                             </p>
                             </div>
                         </div>
