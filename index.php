@@ -55,7 +55,7 @@
 
                     <div class="col-12 p-3">
                         <p>Ein Superblock ist eine großflächig verkehrsberuhigte Zone ohne Durchzugsverkehr 
-                            (also ohne Autos, die weder einen Start- noch Zielpunkt in unserem Viertel haben). 
+                            (Autos, die weder einen Start- noch Zielpunkt in unserem Viertel haben). 
                             Im Gegensatz zu punktuellen Verkehrsmaßnahmen im Viertel, die 
                             den Verkehr nur von einer Straße in die
                             Nächste innerhalb unseres Wohngebiets verschieben, schafft das eine hohe
