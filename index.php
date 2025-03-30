@@ -50,7 +50,7 @@
 
                     <div class="col-12 p-3 mt-4">
                         <h3>Jetzt informieren und dann im Beteiligungsprozess der Stadt Graz einen "Superblock ORF
-                            Viertel" fordern!</h3>
+                            Viertel" fordern !</h3>
                     </div>
 
                     <div class="col-12 p-3">
