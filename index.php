@@ -86,9 +86,9 @@
                     </p>
                     <p><strong>März 2025</strong></p>
                     <p>
-                    Die Stadt Graz kündigt in einer <a href="Verkehrsberuhigung%20Harmsdorf-ORF-Viertel%20.pdf">Presseaussendung</a> das Projekt 
-                    “Verkehrsberuhigung im Wohngebiet Harmsdorf-ORF-Viertel” an. 
-                    Das Projekt hat ein Gesamtbudget von 100.000 Euro und sieht folgende Schritte vor:
+                    Die Stadt Graz hat in einer <a href="Verkehrsberuhigung%20Harmsdorf-ORF-Viertel%20.pdf">Presseaussendung</a> das Projekt 
+                    “Verkehrsberuhigung im Wohngebiet Harmsdorf-ORF-Viertel” angekündigt. 
+                    Das Projekt sieht folgende Schritte vor:
                     <ol>
                         <li>Befragung der BewohnerInnen im 2. Quartal 2025 zur aktuellen Verkehrssituation und zu möglichen Verkehrsberuhigungsmaßnahmen</li>  
                         <li>Auf Basis der Befragung erfolgt die Erstellung eines Verkehrskonzepts</li>
