@@ -81,7 +81,7 @@
                 <div class="col-12 mb-3">
                     <h1>Neuigkeiten</h1>
                     <p>
-                    Wir bedanken uns für die vielen aufgehängten Plakate und die vielen postiven Rückmeldungen via Email und persönlichen Gesprächen.  
+                    Wir bedanken uns für die vielen aufgehängten Plakate und die vielen postiven Rückmeldungen via Email und durch persönliche Gespräche.  
 
                     </p>
                     <p><strong>März 2025</strong></p>
