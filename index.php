@@ -85,6 +85,20 @@
                     Wir bedanken uns für die vielen aufgehängten Plakate und die vielen postiven Rückmeldungen via Email und durch persönliche Gespräche.  
 
                     </p>
+                    
+                    <p><strong>Mai 2025</strong></p>
+                    <p>Wir treffen uns im ORF Park an drei Freitagen im Mai:
+                        <ul>
+                            <li>Freitag 9.5., 17:00</li>
+                            <li>Freitag 16.5., 17:00</li>
+                            <li>Freitag 23.5., 17:00</li>
+                        </ul>
+                        Alle AnrainerInnen des ORF Viertels sind herzlich willkommen. Das Ziel ist der Austausch zum Thema Verkehr im ORF Viertel im Vorfeld des kommenden Beteiligungsprozesses. 
+                    </p>
+                    <p><strong>April 2025</strong></p>
+                    <p>Die Stadt Graz veröffentlicht den <a href="https://www.graz.at/cms/dokumente/10403377_12799279/6566d420/MP2040_Handlungsfelder_Massnahmen_fin.pdf">Mobilitätsplan 2040</a>. Das ORF Viertel ist darin als Zielgebiet für Verkehrsberuhigung angeführt (Seite 22) und 
+                        in der Liste prioritärer Ziele für Verkehrsberuhigung (Seite 92).
+                    </p>    
                     <p><strong>März 2025</strong></p>
                     <p>
                     Die Stadt Graz hat in einer <a href="Verkehrsberuhigung%20Harmsdorf-ORF-Viertel%20.pdf">Presseaussendung</a> das Projekt 
@@ -156,14 +170,15 @@
                     <p>
                         Wir fordern, dass der Durchzugsverkehr im ORF Viertel gänzlich unterbunden wird. Großflächige
                         Verkehrsberuhigungen für Wohngebiete werden in vielen Städten bereits gemacht und sind bekannt
-                        unter dem Namen "Superblocks". Für unser Viertel ist eine solche großflächige Verkehrsberuhigung
+                        unter dem Namen "Superblocks". 
+                        <!--Für unser Viertel ist eine solche großflächige Verkehrsberuhigung
                         aktuell aber erst im <a
                             href="https://www.graz.at/cms/beitrag/10403377/12799279/Die_Inhalte_des_Mobilitaetsplan_Graz.html"
                             target="_blank">Mobilitätsplan 2040</a> vorgesehen (Siehe <a
                             href="https://www.graz.at/cms/dokumente/10403377_12799279/4824db14/20240611_Mobilitaetsdialog_fin.pdf"
                             target="_blank">Präsentation zum Mobilitätsplan 2040</a>, Seite 25).
                         Die Probleme mit dem Durchzugsverkehr haben
-                        wir aber bereits jetzt. </p>
+                        wir aber bereits jetzt. --></p>
 
                     <p class="alert alert-info text-center font-weight-bold p-4 mt-4 mb-4">
                         Wir fordern die sofortige Umsetzung einer flächendeckenden Verkehrsberuhigung für das ORF
@@ -558,11 +573,11 @@
                         Viertel. </p>
                     <p>
                         Das Konzept Superblocks wird bereits in vielen Städten Europas umgesetzt, in Wien läuft es z.B.
-                        unter dem Namen „Supergrätzl“. Auch der Mobilitätsplan 2040 für die Stadt Graz sieht die
-                        Schaffung von großen, verkehrsberuhigten Bereichen nach dem Prinzip von Superblocks vor, auch
+                        unter dem Namen „Supergrätzl“. Auch der <a href="https://www.graz.at/cms/dokumente/10403377_12799279/6566d420/MP2040_Handlungsfelder_Massnahmen_fin.pdf">Mobilitätsplan 2040</a> für die Stadt Graz sieht die
+                        Schaffung von großen, verkehrsberuhigten Quartieren nach dem Prinzip von Superblocks vor, auch
                         ganz konkret für das ORF Viertel. Es ist nicht sinnvoll, jetzt beim Errichten von Fahrradstraßen
                         temporäre, suboptimale Lösungen zu schaffen. Wir fordern eine Verkehrsberuhigung, die sofort
-                        umgesetzt und sofort wirksam wird - und nicht erst im Jahr 2040. </p>
+                        umgesetzt und sofort wirksam wird. </p>
                     <p>
                         <strong>Weiterführende Information:</strong>
                     </p>
