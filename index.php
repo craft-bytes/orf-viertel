@@ -50,7 +50,7 @@
                     </div>
 
                     <div class="col-12 p-3 mt-4">
-                        <h3>Jetzt informieren und im Beteiligungsprozess der Stadt Graz (2. Quartal 2025) einen "Superblock ORF
+                        <h3>Jetzt informieren und im Beteiligungsprozess der Stadt Graz (28.8.2025 - 23.9.2025) einen "Superblock ORF
                             Viertel" fordern!</h3>
                     </div>
 
@@ -64,9 +64,13 @@
                         </p>
                     </div>
 
-
                     <div class="col-12 p-3 mt-4">
-                        <a class="btn btn-primary btn-lg pl-5 pr-5" href="#form">Jetzt unterstützen!</a>
+                        <p>
+                            <a class="btn btn-primary btn-lg pl-5 pr-5" href="#form">Jetzt unterstützen!</a>
+                        </p>
+
+                        Kontakt: <a href="mailto:superblock@orf-viertel.at">superblock@orf-viertel.at</a>
+                        
                     </div>
                 </div>
             </div>
@@ -85,7 +89,22 @@
                     Wir bedanken uns für die vielen aufgehängten Plakate und die vielen postiven Rückmeldungen via Email und durch persönliche Gespräche.  
 
                     </p>
-                    
+                    <p><strong>Juli 2025</strong></p>
+                    <p>Es gibt nun eine <a href="https://www.graz.at/cms/beitrag/10448763/7760054/">Webseite der Stadt Graz für das Projekt "Verkehrsberuhigung Verkehrsberuhigung Harmsdorf-ORF-Viertel"</a>. Die Webseite zeigt 
+                    unter dem Punkt "Beteiligung um Überblick" auch den Zeitplan. Der erste Schritt ist eine AnrainerInnenbefragung vom 28.8.2025 bis zum 23.9.2025. 
+                    </p>
+                    <p>
+                    <strong> Es ist wichtig 
+                        die Möglichkeit der AnrainerInnenbefragung zu nutzen und gemeinsam eine Verkehrsberuhigung für ALLE 
+                        zu fordern, die den Durchzugsverkehr unterbindet</strong>. Durchzugsverkehr besteht 
+                        in vielen Varianten in unserem Viertel 
+                        (<a href="#durchzugsverkehr">Details zum Durchzugsverkehr</a>). Die aktuellen und 
+                        vor allem die <a href="#bauprojekte">zukünftigen Verkehrsprobleme</a> können nur durch
+                        eine Verkehrsberuhigung für ALLE erreicht werden. 
+                        Das schafft Zukunftssicherheit und hohe Wohnqualität (<a href="#Details">Details zu den  
+                        wichtigsten Gründen</a>). <strong>Es geht jetzt darum festzulegen wie der Verkehr in unserem Viertel in den nächsten Jahrzehnten aussehen wird.</strong>
+                
+                    </p>
                     <p><strong>Mai 2025</strong></p>
                     <p>Wir treffen uns im ORF Park an drei Freitagen im Mai:
                         <ul>
@@ -102,23 +121,9 @@
                     <p><strong>März 2025</strong></p>
                     <p>
                     Die Stadt Graz hat in einer <a href="Verkehrsberuhigung%20Harmsdorf-ORF-Viertel%20.pdf">Presseaussendung</a> das Projekt 
-                    “Verkehrsberuhigung im Wohngebiet Harmsdorf-ORF-Viertel” angekündigt. 
-                    Das Projekt sieht folgende Schritte vor:
-                    <ol>
-                        <li>Befragung der BewohnerInnen im 2. Quartal 2025 zur aktuellen Verkehrssituation und zu möglichen Verkehrsberuhigungsmaßnahmen</li>  
-                        <li>Auf Basis der Befragung erfolgt die Erstellung eines Verkehrskonzepts</li>
-                        <li>Es besteht eine Kommentierungsmöglichkeit für den erstellten Umsetzungsvorschlag, der dann zunächst temporär im Zuge einer Evaluierungsphase 
-                            umgesetzt wird. 
-                    </ol>
-                    Es gibt im Rahmen des Projekts also viele Möglichkeiten zur Stellungnahme.<strong> Es ist wichtig 
-                    diese Möglichkeit zu nutzen und gemeinsam eine Verkehrsberuhigung für ALLE 
-                    zu fordern, die den Durchzugsverkehr unterbindet</strong>. Durchzugsverkehr besteht 
-                    in vielen Varianten in unserem Viertel 
-                    (<a href="#durchzugsverkehr">Details zum Durchzugsverkehr</a>). Die aktuellen und 
-                    vor allem die <a href="#bauprojekte">zukünftigen Verkehrsprobleme</a> können nur durch
-                    eine Verkehrsberuhigung für ALLE erreicht werden. 
-                    Das schafft Zukunftssicherheit und hohe Wohnqualität (<a href="#Details">Details zu den  
-                    wichtigsten Gründen</a>).
+                    “Verkehrsberuhigung im Wohngebiet Harmsdorf-ORF-Viertel” angekündigt mit einer AnrainerInnenbefragung für das 2. Quartal 2025.
+                    
+                    
 
                     </p>
                     <p><strong>Dezember 2024</strong></p>
