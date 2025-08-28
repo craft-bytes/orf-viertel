@@ -65,7 +65,7 @@
                     </div>
                     <div class="col-12 p-3 mt-4">
                         <p>
-                            <a class="btn btn-primary btn-lg pl-5 pr-5" href="#form">Eintrag als UnterstützerIn der Initiative</a>
+                            <a class="btn btn-primary btn-lg pl-5 pr-5" href="#form">Eintrag als UnterstützerIn</a>
                         </p>
 
                         Kontakt: <a href="mailto:superblock@orf-viertel.at">superblock@orf-viertel.at</a>
