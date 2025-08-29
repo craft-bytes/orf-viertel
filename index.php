@@ -52,6 +52,7 @@
                     <div class="col-12 p-3 mt-4">
                         <h3>Jetzt in der laufenden Befragung der Stadt Graz einen "Superblock ORF
                             Viertel" fordern!</h3>
+                        <h6>(<a href="https://umfragen.werdenktwas.de/harmsdorf-orf-viertel">AnrainerInnen</a>, <a href="https://umfragen.werdenktwas.de/harmsdorf-orf-viertel-unternehmen">UnternehmerInnen</a>)</h6>
                     </div>
 
                     <div class="col-12 p-3">
@@ -62,6 +63,8 @@
                             Nächste innerhalb unseres Wohngebiets verschieben, schafft das eine hohe
                             Wohnqualität für ALLE im Viertel.
                         </p>
+                        <p>Wir sind der Ansicht, dass es für eine Errichtung eine Kombination von <strong>wirksamen Maßnahmen (insbesondere Maßnahmen der Seiten 3 und 4 des postalisch ausgesendeten Fragebogens der Stadt Graz)</strong> braucht, auch wenn diese teilweise zu geänderten Wegen für den PKW Verkehr führen. 
+                           Bei der Detailplanung für mögliche Konzepte durch die Verkehrsplanung sollte es das Ziel sein, diese Änderungen für das Viertel in Summe zu minimieren. </p>
                     </div>
                     <div class="col-12 p-3 mt-4">
                         <p>
@@ -103,8 +106,11 @@
                         wichtigsten Gründen</a>). <strong>Es geht jetzt darum festzulegen wie der Verkehr in unserem Viertel in den nächsten Jahrzehnten aussehen wird.</strong>
                     
                     <p class="alert alert-info text-center font-weight-bold p-4 mb-4">
-                        Wir bitten insbesondere darum in der laufenden Befragung (<a href="https://umfragen.werdenktwas.de/harmsdorf-orf-viertel">AnrainerInnen</a>, <a href="https://umfragen.werdenktwas.de/harmsdorf-orf-viertel-unternehmen">UnternehmerInnen</a>) bei Frage 11b einen Superblock zu fordern in dem Durchzugsverkehr im gesamten Viertel unterbunden wird.                            
+                        Wir bitten insbesondere darum in der laufenden Befragung (<a href="https://umfragen.werdenktwas.de/harmsdorf-orf-viertel">AnrainerInnen</a>, <a href="https://umfragen.werdenktwas.de/harmsdorf-orf-viertel-unternehmen">UnternehmerInnen</a>) bei Frage 11b einen Superblock zu fordern in dem Durchzugsverkehr im gesamten Viertel unterbunden wird.                                                                               
                     </p>
+                    <p class="alert alert-info text-center font-weight-bold p-4 mb-4">                      
+                        Wir sind der Ansicht, dass es eine Kombination von wirksamen Maßnahmen (insbesondere Maßnahmen der Seiten 3 und 4 des Fragebogens) braucht, auch wenn diese zu geänderten Wegen für den PKW Verkehr führen.</p>
+
                     
 
                     <p><strong>Juli 2025</strong></p>
@@ -719,7 +725,7 @@
 
                     <p class="mb-5">
                         Tragen Sie sich <?php echo "wie $count andere" ?> in unsere Liste von UnterstützerInnen
-                        ein. Wir nutzen den Eintrag, um Sie zu informieren, sobald der Beteiligungsprozess startet.
+                        ein. Wir nutzen den Eintrag, um Sie laufend zum Projekt der Verkehrsberuhigung zu informieren.
                         Gleichzeitig schafft Ihr Eintrag eine Vernetzung von UnterstützerInnen im Viertel.</p>
 
                     <form accept-charset="utf-8" action="submit.php" method="POST">
