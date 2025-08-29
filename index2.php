@@ -47,9 +47,8 @@
                                 <img alt="Logo" class="img-fluid img-logo" src="superblock_web.png" width="1140">
                             </picture>
                         </div>
-                    </div>
-
-                    <div class="col-12 p-3 mt-4">
+                    </div>                                                              
+                    <div class="col-12 p-3 mt-4">                    
                         <h3>Jetzt in der laufenden Befragung der Stadt Graz einen "Superblock ORF
                             Viertel" fordern!</h3>
                         <h6>(<a href="https://www.graz.at/cms/beitrag/10448763/7760054/">Projektseite</a>, <a href="https://umfragen.werdenktwas.de/harmsdorf-orf-viertel">Fragebogen AnrainerInnen</a>, <a href="https://umfragen.werdenktwas.de/harmsdorf-orf-viertel-unternehmen">Fragebogen UnternehmerInnen</a>)</h6>
@@ -65,7 +64,9 @@
                         </p>
                         <p>
                             Unterstützen Sie die Forderung nach einem Superblock in <strong>Frage 11b</strong>. Bezüglich Maßnahmen sind wir sind der Ansicht, dass es für eine Errichtung eine Kombination von <strong>wirksamen Maßnahmen (insbesondere Maßnahmen der Seiten 3 und 4 des postalisch ausgesendeten Fragebogens der Stadt Graz)</strong> braucht.                         
-                        </p>                        
+                        </p>                     
+                        
+                        <p><strong>Nächste Informationstreffen der Bürgerinitiative (jeweils 17:30):</strong> <br>1.9. Marburger Str. (Marburgerhof / Auer) <br>5.9. Neufeldweg / Emil-Etrl-Gasse (Kreuzung)</p>
                     </div>
                     <div class="col-12 p-3 mt-4">
                         <p>
