@@ -66,7 +66,7 @@
                             Unterstützen Sie die Forderung nach einem Superblock in <strong>Frage 11b</strong>. Bezüglich Maßnahmen sind wir sind der Ansicht, dass es für eine Errichtung eine Kombination von <strong>wirksamen Maßnahmen (insbesondere Maßnahmen der Seiten 3 und 4 des postalisch ausgesendeten Fragebogens der Stadt Graz)</strong> braucht.                         
                         </p>                     
                         
-                        <p><strong>Nächste Informationstreffen der Bürgerinitiative (jeweils 17:30):</strong> <br>1.9. Marburger Str. (Marburgerhof / Auer) <br>5.9. Neufeldweg / Emil-Etrl-Gasse (Kreuzung)</p>
+                        <!--<p><strong>Nächste Informationstreffen der Bürgerinitiative (jeweils 17:30):</strong> <br>1.9. Marburger Str. (Marburgerhof / Auer) <br>5.9. Neufeldweg / Emil-Etrl-Gasse (Kreuzung)</p>-->
                     </div>
                     <div class="col-12 p-3 mt-4">
                         <p>
