@@ -64,7 +64,7 @@
                             hat die Umsetzung von Maßnahmen ab April 2025 angekündigt.
                         </p>
                         <br>
-                        <h2>Stellungnahme zum Ergebnis des Verkehrsberuhigungsprojekts</h2>
+                        <h2>Stellungnahme zum Ergebnis des Projekts zur Verkehrsberuhigung</h2>
                         
                         <p> Die geplanten Maßnahmen umfassen wichtige Punkte, aber es wird kein vollständiger Superblock umgesetzt. Somit ist es weiter möglich, das Viertel zu durchqueren. Es besteht inbesondere in Straßen wie dem Neufeldweg und der Händelstraße das Risko, dass die geplanten Maßnahmen (Querschnittsverengung, Vorrangsänderung) nicht ausreichen werden, um eine Verbesserung zu erreichen. Es wurden auch viele weitere Straßen rund um die Marburger Straße nicht berücksichtigt und Verkerkehrsverlagerungen durch die Fahrradstraße nicht addressiert.
                          </p>
