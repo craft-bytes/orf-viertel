@@ -48,13 +48,8 @@
                             </picture>
                         </div>
                     </div>                                                              
-                    <div class="col-12 p-3 mt-4">                    
-                        <h3>Jetzt in der laufenden Befragung der Stadt Graz einen "Superblock ORF
-                            Viertel" fordern!</h3>
-                        <h6>(<a href="https://www.graz.at/cms/beitrag/10448763/7760054/">Projektseite</a>, <a href="https://umfragen.werdenktwas.de/harmsdorf-orf-viertel">Fragebogen AnrainerInnen</a>, <a href="https://umfragen.werdenktwas.de/harmsdorf-orf-viertel-unternehmen">Fragebogen UnternehmerInnen</a>)</h6>
-                    </div>
-
                     <div class="col-12 p-3">
+                       
                         <p>Ein Superblock ist eine großflächig verkehrsberuhigte Zone ohne Durchzugsverkehr 
                             (Autos, die weder einen Start- noch Zielpunkt in unserem Viertel haben). 
                             Im Gegensatz zu punktuellen Verkehrsmaßnahmen im Viertel, die 
@@ -62,18 +57,29 @@
                             Nächste innerhalb unseres Wohngebiets verschieben, schafft das eine hohe
                             Wohnqualität für ALLE im Viertel.
                         </p>
-                        <p>
-                            Unterstützen Sie die Forderung nach einem Superblock in <strong>Frage 11b</strong>. Bezüglich Maßnahmen sind wir sind der Ansicht, dass es für eine Errichtung eine Kombination von <strong>wirksamen Maßnahmen (insbesondere Maßnahmen der Seiten 3 und 4 des postalisch ausgesendeten Fragebogens der Stadt Graz)</strong> braucht.                         
-                        </p>                     
+
+                        <p> Als Reaktion auf den Wunsch nach Verkehrsberuhigung im ORF Viertel, 
+                            hat die Stadt Graz 2025 und 2026 einen zweitstufigen BürgerInnenbeteiligungsprozess 
+                            durchgeführt (<a href="https://www.graz.at/cms/beitrag/10448763/7760054/">Projektseite</a>) und
+                            hat die Umsetzung von Maßnahmen ab April 2025 angekündigt.
+                        </p>
+                        <br>
+                        <h2>Stellungnahme zum Ergebnis des Verkehrsberuhigungsprojekts</h2>
                         
-                        <!--<p><strong>Nächste Informationstreffen der Bürgerinitiative (jeweils 17:30):</strong> <br>1.9. Marburger Str. (Marburgerhof / Auer) <br>5.9. Neufeldweg / Emil-Etrl-Gasse (Kreuzung)</p>-->
+                        <p> Die geplanten Maßnahmen umfassen wichtige Punkte, aber es wird kein vollständiger Superblock umgesetzt. Somit ist es weiter möglich, das Viertel zu durchqueren. Es besteht inbesondere in Straßen wie dem Neufeldweg und der Händelstraße das Risko, dass die geplanten Maßnahmen (Querschnittsverengung, Vorrangsänderung) nicht ausreichen werden, um eine Verbesserung zu erreichen. Es wurden auch viele weitere Straßen rund um die Marburger Straße nicht berücksichtigt und Verkerkehrsverlagerungen durch die Fahrradstraße nicht addressiert.
+                         </p>
+                        <p>
+                        Es wurden zukünftige Entwicklungen nicht berücksichtigt. Somit wurde keine zukunftssichere Lösung geschaffen und das Thema Verkehr ist in unserem Viertel noch nicht nachhaltig gelöst.   
+                        Wir bedanken uns bei allen, die uns während des Beteiligungsprozesses unterstüzt haben und die sich, so wie wir, für eine umfassendere Lösung eingesetzt haben. Wir hoffen, dass eine solche Lösung in Zukunft möglich sein wird.</p>
+                        <br>                   
+                        Kontakt: <a href="mailto:superblock@orf-viertel.at">superblock@orf-viertel.at</a>
                     </div>
                     <div class="col-12 p-3 mt-4">
                         <p>
                             <a class="btn btn-primary btn-lg pl-5 pr-5" href="#form">Mailingliste</a>
                         </p>
 
-                        Kontakt: <a href="mailto:superblock@orf-viertel.at">superblock@orf-viertel.at</a>
+                        
                         
                     </div>
                 </div>
@@ -93,25 +99,19 @@
                     Wir bedanken uns für die vielen aufgehängten Plakate und die vielen postiven Rückmeldungen via Email und durch persönliche Gespräche.  
 
                     </p>
+
+                    <p><strong>März 2026</strong></p>
+                    <p>
+                    Ergebnisse zur zweiten Befragung werden veröffentlicht (<a href="https://www.graz.at/cms/beitrag/10448763/7760054/">Projektseite</a>). Die Umsetzung 
+                    von Maßnahmen erfolgt ab April 2026. Ein Jahr später sollen die Maßnahmen evaluiert werden. 
+
+
+                    <p><strong>Jänner 2026</strong></p>
+                    <p>Die zweite Befragung zur Verkehrsberuhigung im ORF Viertel wird durchgeführt.</p>
+
                     <p><strong>August 2025</strong></p>
                     
-                    <p><strong>Die erste Befragung zur Verkehrsberuhigung im ORF Viertel läuft!</strong></p>
-                    <p>
-                    <strong> Es ist wichtig 
-                        die Möglichkeit der Befragung zu nutzen und gemeinsam eine Verkehrsberuhigung für ALLE 
-                        zu fordern, die den Durchzugsverkehr unterbindet</strong>. Durchzugsverkehr besteht 
-                        in vielen Varianten in unserem Viertel 
-                        (<a href="#durchzugsverkehr">Details zum Durchzugsverkehr</a>). Die aktuellen und 
-                        vor allem die <a href="#bauprojekte">zukünftigen Verkehrsprobleme</a> können nur durch
-                        eine Verkehrsberuhigung für ALLE erreicht werden. 
-                        Das schafft Zukunftssicherheit und hohe Wohnqualität (<a href="#Details">Details zu den  
-                        wichtigsten Gründen</a>). <strong>Es geht jetzt darum festzulegen wie der Verkehr in unserem Viertel in den nächsten Jahrzehnten aussehen wird.</strong>
-                    
-                    <p class="alert alert-info text-center font-weight-bold p-4 mb-4">
-                        Wir bitten insbesondere darum in der laufenden Befragung (<a href="https://umfragen.werdenktwas.de/harmsdorf-orf-viertel">AnrainerInnen</a>, <a href="https://umfragen.werdenktwas.de/harmsdorf-orf-viertel-unternehmen">UnternehmerInnen</a>) bei Frage 11b einen Superblock zu fordern in dem Durchzugsverkehr im gesamten Viertel unterbunden wird.                                                                               
-                    </p>
-                   <p class="alert alert-info text-center font-weight-bold p-4 mb-4">                      
-                        Wir sind der Ansicht, dass es eine Kombination von wirksamen Maßnahmen (insbesondere Maßnahmen der Seiten 3 und 4 des Fragebogens) braucht.</p>
+                    <p>Die erste Befragung zur Verkehrsberuhigung im ORF Viertel wird durchgeführt.</p>
 
                     <p><strong>Juli 2025</strong></p>
                         Es gibt eine <a href="https://www.graz.at/cms/beitrag/10448763/7760054/">Webseite der Stadt Graz für das Projekt "Verkehrsberuhigung Verkehrsberuhigung Harmsdorf-ORF-Viertel"</a> mit einem konkreten Zeitplan.                                 
