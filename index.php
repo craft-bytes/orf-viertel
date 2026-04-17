@@ -66,10 +66,10 @@
                         <br>
                         <h2>Stellungnahme zum Ergebnis des Projekts zur Verkehrsberuhigung</h2>
                         
-                        <p> Die geplanten Maßnahmen umfassen wichtige Punkte, aber es wird kein vollständiger Superblock umgesetzt. Somit ist es weiter möglich, das Viertel zu durchqueren. Es besteht inbesondere in Straßen wie dem Neufeldweg und der Händelstraße das Risko, dass die geplanten Maßnahmen (Querschnittsverengung, Vorrangsänderung) nicht ausreichen werden, um eine Verbesserung zu erreichen. Es wurden auch viele weitere Straßen rund um die Marburger Straße nicht berücksichtigt und Verkerkehrsverlagerungen durch die Fahrradstraße nicht addressiert.
+                        <p> Die geplanten Maßnahmen umfassen wichtige Punkte, aber es wird kein vollständiger Superblock umgesetzt. Somit ist es weiter möglich, das Viertel zu durchqueren. Es besteht inbesondere in Straßen wie dem Neufeldweg und der Händelstraße das Risko, dass die geplanten Maßnahmen (Querschnittsverengung, Vorrangsänderung) nicht ausreichen werden, um eine Verbesserung zu erreichen. Es wurden auch viele weitere Straßen rund um die Marburger Straße nicht berücksichtigt und Verkehrsverlagerungen durch die Fahrradstraße nicht adressiert.
                          </p>
                         <p>
-                        Es wurden zukünftige Entwicklungen nicht berücksichtigt. Somit wurde keine zukunftssichere Lösung geschaffen und das Thema Verkehr ist in unserem Viertel noch nicht nachhaltig gelöst.   
+                        Es wurden auch zukünftige Entwicklungen nicht berücksichtigt. Somit wurde keine zukunftssichere Lösung geschaffen und das Thema Verkehr ist aus unserer Sicht in unserem Viertel noch nicht nachhaltig gelöst.   
                         Wir bedanken uns bei allen, die uns während des Beteiligungsprozesses unterstüzt haben und die sich, so wie wir, für eine umfassendere Lösung eingesetzt haben. Wir hoffen, dass eine solche Lösung in Zukunft möglich sein wird.</p>
                         <br>                   
                         Kontakt: <a href="mailto:superblock@orf-viertel.at">superblock@orf-viertel.at</a>
