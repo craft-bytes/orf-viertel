@@ -61,7 +61,7 @@
                         <p> Als Reaktion auf den Wunsch nach Verkehrsberuhigung im ORF Viertel, 
                             hat die Stadt Graz 2025 und 2026 einen zweitstufigen BürgerInnenbeteiligungsprozess 
                             durchgeführt (<a href="https://www.graz.at/cms/beitrag/10448763/7760054/">Projektseite</a>) und
-                            hat die Umsetzung von Maßnahmen ab April 2025 angekündigt.
+                            hat die Umsetzung von Maßnahmen ab April 2026 angekündigt.
                         </p>
                         <br>
                         <h2>Stellungnahme zum Ergebnis des Projekts zur Verkehrsberuhigung</h2>
