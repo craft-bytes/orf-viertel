@@ -61,18 +61,17 @@
                         <p> Als Reaktion auf den Wunsch nach Verkehrsberuhigung im ORF Viertel, 
                             hat die Stadt Graz 2025 und 2026 einen zweitstufigen BürgerInnenbeteiligungsprozess 
                             durchgeführt (<a href="https://www.graz.at/cms/beitrag/10448763/7760054/">Projektseite</a>) und
-                            hat die Umsetzung von Maßnahmen ab April 2025 angekündigt.
+                            hat die Umsetzung von Maßnahmen ab April 2026 angekündigt.
                         </p>
+                        <br>
+                        <h2>Stellungnahme zum Ergebnis des Projekts zur Verkehrsberuhigung</h2>
                         
-                        
-                        <p> Die geplanten Maßnahmen umfassen wichtige Punkte. Es besteht jedoch ein erhebliches Risiko, dass
-                            die getroffenen Maßnahmen nicht ausreichen, um eine Verkehrsberuhigung für alle im Viertel zu erreichen.
-
+                        <p> Die geplanten Maßnahmen umfassen wichtige Punkte, aber es wird kein vollständiger Superblock umgesetzt. Somit ist es weiter möglich, das Viertel zu durchqueren. Es besteht inbesondere in Straßen wie dem Neufeldweg und der Händelstraße das Risko, dass die geplanten Maßnahmen (Querschnittsverengung, Vorrangsänderung) nicht ausreichen werden, um eine Verbesserung zu erreichen. Es wurden auch viele weitere Straßen rund um die Marburger Straße nicht berücksichtigt und Verkehrsverlagerungen durch die Fahrradstraße nicht adressiert.
                          </p>
-
                         <p>
-                           <strong> Bitte geben Sie uns Feedback zu den Maßnahmen.</strong>     
-                        </p>                     
+                        Es wurden auch zukünftige Entwicklungen nicht berücksichtigt. Somit wurde keine zukunftssichere Lösung geschaffen und das Thema Verkehr ist aus unserer Sicht in unserem Viertel noch nicht nachhaltig gelöst.   
+                        Wir bedanken uns bei allen, die uns während des Beteiligungsprozesses unterstüzt haben und die sich, so wie wir, für eine umfassendere Lösung eingesetzt haben. Wir hoffen, dass eine solche Lösung in Zukunft möglich sein wird.</p>
+                        <br>                   
                         Kontakt: <a href="mailto:superblock@orf-viertel.at">superblock@orf-viertel.at</a>
                     </div>
                     <div class="col-12 p-3 mt-4">
@@ -101,8 +100,13 @@
 
                     </p>
                     <p><strong>April 2026</strong></p>
-
-                    <p>Die Bürgerinitiative "Superblock ORF Viertel" nimmt Stellung zu den geplanten Maßnahmen: STELLUNGNAHME. </p>
+                    <p>Die Bürgerinitiative macht folgene Stellungnahme zu den geplanten Maßnahmen zur Verkehrsberuhigung: </p>
+                        
+                    <p> Die geplanten Maßnahmen umfassen wichtige Punkte, aber es wird kein vollständiger Superblock umgesetzt. Somit ist es weiter möglich, das Viertel zu durchqueren. Es besteht inbesondere in Straßen wie dem Neufeldweg und der Händelstraße das Risko, dass die geplanten Maßnahmen (Querschnittsverengung, Vorrangsänderung) nicht ausreichen werden, um eine Verbesserung zu erreichen. Es wurden auch viele weitere Straßen rund um die Marburger Straße nicht berücksichtigt und Verkehrsverlagerungen durch die Fahrradstraße nicht adressiert.
+                    </p>
+                    <p>
+                    Es wurden auch zukünftige Entwicklungen nicht berücksichtigt. Somit wurde keine zukunftssichere Lösung geschaffen und das Thema Verkehr ist aus unserer Sicht in unserem Viertel noch nicht nachhaltig gelöst.   
+                    Wir bedanken uns bei allen, die uns während des Beteiligungsprozesses unterstüzt haben und die sich, so wie wir, für eine umfassendere Lösung eingesetzt haben. Wir hoffen, dass eine solche Lösung in Zukunft möglich sein wird.</p>
 
                     <p><strong>März 2026</strong></p>
                     <p>
