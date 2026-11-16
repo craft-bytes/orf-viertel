@@ -66,7 +66,7 @@
                         <br>
                         <h2>Stellungnahme zu den umgesetzten Maßnahmen</h2>
                         
-                        <p>Die Forderung nach einer großflächigen Verkehrsberuhigung nach dem Verkehrskonzept Superblock wurde nicht umgesetzt. Es wurde keine zukunftssichere Lösung geschaffen und insbesonders im Neufeldweg haben die gesetzten Maßnahmen zu einer Verschlechterung der Situation geführt. Auch der Ausweichverkehr rund um die Marburger Straße wurde nicht ausreichend berücksichtigt. </p>
+                        <p>Die Forderung nach einer großflächigen Verkehrsberuhigung nach dem Verkehrskonzept Superblock wurde nicht umgesetzt. Es wurde keine zukunftssichere Lösung geschaffen und insbesonders im Neufeldweg haben die gesetzten Maßnahmen zu einer Verschlechterung der Situation geführt. Auch der Ausweichverkehr rund um die Marburger Straße (Händelstraße, Rosengasse, ...) wurde nicht ausreichend berücksichtigt. </p>
                         <p><strong>Wir fordern weiterhin eine umfassendere Lösung für ALLE im Viertel.</strong> </p>    
                         <p>Konrekt fordern wir den Durchzugsverkehr mittels einer automationsunterstützten Zufahrtskontrolle gemäß § 98h StVO zu unterbinden. Dies würde sowohl in der Marbuger Straße und im Neufeld erlauben, dass AnrainerInnen und RadfahrerInnen die Straße weiterhin nutzen können und gleichzeitig Durchzugsverkehr und Ausweichverkehr im Viertel verhindert wird. 
                         </p>
