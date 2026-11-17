@@ -49,7 +49,10 @@
                         </div>
                     </div>                                                              
                     <div class="col-12 p-3">
-                       
+                       <h2>Stellungnahme zu den umgesetzten Maßnahmen</h2>
+                        
+                        <p>Die Forderung nach einer großflächigen Verkehrsberuhigung nach dem Verkehrskonzept Superblock wurde nicht umgesetzt. Es wurde keine zukunftssichere Lösung geschaffen und insbesonders im Neufeldweg haben die gesetzten Maßnahmen zu einer Verschlechterung der Situation geführt. Auch der Ausweichverkehr rund um die Marburger Straße (Händelstraße, Rosengasse, ...) wurde nicht ausreichend berücksichtigt. </p>
+                        <p><strong>Wir fordern weiterhin eine umfassendere Lösung für ALLE im Viertel.</strong> </p>
                         <p>Ein Superblock ist eine großflächig verkehrsberuhigte Zone ohne Durchzugsverkehr 
                             (Autos, die weder einen Start- noch Zielpunkt in unserem Viertel haben). 
                             Im Gegensatz zu punktuellen Verkehrsmaßnahmen im Viertel, die 
@@ -63,11 +66,7 @@
                         durchgeführt (<a href="https://www.graz.at/cms/beitrag/10448763/7760054/">Projektseite</a>) und
                         hat Maßnahmen im Juni 2026 umgesetzt.
                         </p>
-                        <br>
-                        <h2>Stellungnahme zu den umgesetzten Maßnahmen</h2>
-                        
-                        <p>Die Forderung nach einer großflächigen Verkehrsberuhigung nach dem Verkehrskonzept Superblock wurde nicht umgesetzt. Es wurde keine zukunftssichere Lösung geschaffen und insbesonders im Neufeldweg haben die gesetzten Maßnahmen zu einer Verschlechterung der Situation geführt. Auch der Ausweichverkehr rund um die Marburger Straße (Händelstraße, Rosengasse, ...) wurde nicht ausreichend berücksichtigt. </p>
-                        <p><strong>Wir fordern weiterhin eine umfassendere Lösung für ALLE im Viertel.</strong> </p>    
+                            
                         <br>                   
                         Kontakt: <a href="mailto:superblock@orf-viertel.at">superblock@orf-viertel.at</a>
                     </div>
