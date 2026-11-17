@@ -59,18 +59,15 @@
                         </p>
 
                         <p> Als Reaktion auf den Wunsch nach Verkehrsberuhigung im ORF Viertel, 
-                            hat die Stadt Graz 2025 und 2026 einen zweitstufigen BürgerInnenbeteiligungsprozess 
-                            durchgeführt (<a href="https://www.graz.at/cms/beitrag/10448763/7760054/">Projektseite</a>) und
-                            hat die Umsetzung von Maßnahmen ab April 2026 angekündigt.
+                        hat die Stadt Graz 2025 und 2026 einen zweitstufigen BürgerInnenbeteiligungsprozess 
+                        durchgeführt (<a href="https://www.graz.at/cms/beitrag/10448763/7760054/">Projektseite</a>) und
+                        hat Maßnahmen im Juni 2026 umgesetzt.
                         </p>
                         <br>
-                        <h2>Stellungnahme zum Ergebnis des Projekts zur Verkehrsberuhigung</h2>
+                        <h2>Stellungnahme zu den umgesetzten Maßnahmen</h2>
                         
-                        <p> Die geplanten Maßnahmen umfassen wichtige Punkte, aber es wird kein vollständiger Superblock umgesetzt. Somit ist es weiter möglich, das Viertel zu durchqueren. Es besteht insbesondere in Straßen wie dem Neufeldweg und der Händelstraße das Risiko, dass die geplanten Maßnahmen (Querschnittsverengung, Vorrangsänderung) nicht ausreichen werden, um eine Verbesserung zu erreichen. Es wurden auch viele weitere Straßen rund um die Marburger Straße nicht berücksichtigt und Verkehrsverlagerungen durch die Fahrradstraße nicht adressiert.
-                         </p>
-                        <p>
-                        Es wurden auch zukünftige Entwicklungen nicht berücksichtigt. Somit wurde keine zukunftssichere Lösung geschaffen und das Thema Verkehr ist aus unserer Sicht in unserem Viertel noch nicht nachhaltig gelöst.   
-                        Wir bedanken uns bei allen, die uns während des Beteiligungsprozesses unterstützt haben und die sich, so wie wir, für eine umfassendere Lösung eingesetzt haben. Wir hoffen, dass eine solche Lösung in Zukunft möglich sein wird.</p>
+                        <p>Die Forderung nach einer großflächigen Verkehrsberuhigung nach dem Verkehrskonzept Superblock wurde nicht umgesetzt. Es wurde keine zukunftssichere Lösung geschaffen und insbesonders im Neufeldweg haben die gesetzten Maßnahmen zu einer Verschlechterung der Situation geführt. Auch der Ausweichverkehr rund um die Marburger Straße (Händelstraße, Rosengasse, ...) wurde nicht ausreichend berücksichtigt. </p>
+                        <p><strong>Wir fordern weiterhin eine umfassendere Lösung für ALLE im Viertel.</strong> </p>    
                         <br>                   
                         Kontakt: <a href="mailto:superblock@orf-viertel.at">superblock@orf-viertel.at</a>
                     </div>
@@ -99,6 +96,14 @@
                     Wir bedanken uns für die vielen aufgehängten Plakate und die vielen postiven Rückmeldungen via Email und durch persönliche Gespräche.  
 
                     </p>
+                    <p><strong>April 2026</strong></p>
+                    <p><strong>Die Bürgerinitiative macht folgene Stellungnahme zu den geplanten Maßnahmen zur Verkehrsberuhigung:</strong> </p>
+                        
+                    <p> Die geplanten Maßnahmen umfassen wichtige Punkte, aber es wird kein vollständiger Superblock umgesetzt. Somit ist es weiter möglich, das Viertel zu durchqueren. Es besteht inbesondere in Straßen wie dem Neufeldweg und der Händelstraße das Risko, dass die geplanten Maßnahmen (Querschnittsverengung, Vorrangsänderung) nicht ausreichen werden, um eine Verbesserung zu erreichen. Es wurden auch viele weitere Straßen rund um die Marburger Straße nicht berücksichtigt und Verkehrsverlagerungen durch die Fahrradstraße nicht adressiert.
+                    </p>
+                    <p>
+                    Es wurden auch zukünftige Entwicklungen nicht berücksichtigt. Somit wurde keine zukunftssichere Lösung geschaffen und das Thema Verkehr ist aus unserer Sicht in unserem Viertel noch nicht nachhaltig gelöst.   
+                    Wir bedanken uns bei allen, die uns während des Beteiligungsprozesses unterstüzt haben und die sich, so wie wir, für eine umfassendere Lösung eingesetzt haben. Wir hoffen, dass eine solche Lösung in Zukunft möglich sein wird.</p>
 
                     <p><strong>März 2026</strong></p>
                     <p>
