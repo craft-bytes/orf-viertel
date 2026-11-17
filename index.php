@@ -49,7 +49,12 @@
                         </div>
                     </div>                                                              
                     <div class="col-12 p-3">
-                       <h2>Stellungnahme zu den umgesetzten Maßnahmen</h2>
+                    <p> Als Reaktion auf den Wunsch nach Verkehrsberuhigung im ORF Viertel, 
+                        hat die Stadt Graz 2025 und 2026 einen zweitstufigen BürgerInnenbeteiligungsprozess 
+                        durchgeführt (<a href="https://www.graz.at/cms/beitrag/10448763/7760054/">Projektseite</a>) und
+                        hat Maßnahmen im Juni 2026 umgesetzt.
+                        </p>  
+                    <h2>Stellungnahme zu den umgesetzten Maßnahmen</h2>
                         
                         <p>Die Forderung nach einer großflächigen Verkehrsberuhigung nach dem Verkehrskonzept Superblock wurde nicht umgesetzt. Es wurde keine zukunftssichere Lösung geschaffen und insbesonders im Neufeldweg haben die gesetzten Maßnahmen zu einer Verschlechterung der Situation geführt. Auch der Ausweichverkehr rund um die Marburger Straße (Händelstraße, Rosengasse, ...) wurde nicht ausreichend berücksichtigt. </p>
                         <p><strong>Wir fordern weiterhin eine umfassendere Lösung für ALLE im Viertel.</strong> </p>
@@ -61,11 +66,7 @@
                             Wohnqualität für ALLE im Viertel.
                         </p>
 
-                        <p> Als Reaktion auf den Wunsch nach Verkehrsberuhigung im ORF Viertel, 
-                        hat die Stadt Graz 2025 und 2026 einen zweitstufigen BürgerInnenbeteiligungsprozess 
-                        durchgeführt (<a href="https://www.graz.at/cms/beitrag/10448763/7760054/">Projektseite</a>) und
-                        hat Maßnahmen im Juni 2026 umgesetzt.
-                        </p>
+                        
                             
                         <br>                   
                         Kontakt: <a href="mailto:superblock@orf-viertel.at">superblock@orf-viertel.at</a>
